@@ -1,0 +1,1569 @@
+---------- Actuvit City ---------
+
+Find:
+. Macho Brace: lifter
+. Dive Ball
+. HP Up
+. Super Potion
+. Hidden:  ['16',  '25'],  Rare Candy
+
+TM:
+. TM08: Bulk Up,  lifter in western house
+
+
+---------- Actuvit Gym ---------
+
+TM:
+. TM03: Water Pulse,  Tumblrita
+
+
+---------- Admin Woods ---------
+
+Find:
+. HP Up
+. Iron
+. Energy Root
+. Moon Stone
+. Max Potion
+. PP Up
+. Dusk Ball
+. HP Up
+. Rare Candy
+. Hidden:  ['6',  '17'],  Big Mushroom
+. Hidden:  ['77',  '41'],  Yellow Shard
+
+
+---------- Anacapa Lighthouse ---------
+
+Find:
+. Lemonade
+. Escape Rope
+
+
+---------- Animango City ---------
+
+Find:
+. Amulet Coin:  building beside Pokémon Center,  2F , stoner
+. Eviolite:  Hornigiri building,  4F , neckbeard
+. Rasta Ball
+. Dire Hit
+. Nugget
+. Moon Stone
+. Max Ether
+. Rude Ball
+. Itemfinder
+. Moon Stone
+. Nugget
+. Rare Candy
+. Barbed Ball
+. Card Key
+. Dusk Ball
+. PP Max
+. Hidden:  ['18',  '3'],  Burn Heal
+. Hidden:  ['20',  '4'],  Repel
+. Hidden:  ['4',  '11'],  Stardust
+. Hidden:  ['3',  '14'],  Ether
+. Hidden:  ['29',  '4'],  Ice Heal
+. Hidden:  ['11',  '19'],  Repeat Ball
+. Hidden:  ['10',  '3'],  PP Max
+. Hidden:  ['25',  '2'],  Timer Ball
+. Hidden:  ['16',  '3'],  Burn Heal
+. Hidden:  ['2',  '5'],  Energy Root
+. Hidden:  ['38',  '2'],  Hyper Potion
+. Hidden:  ['59',  '5'],  Soda Pop
+. Hidden:  ['14',  '5'],  ????????
+. Hidden:  ['5',  '11'],  ????????
+. Hidden:  ['9',  '8'],  ????????
+. Hidden:  ['3',  '8'],  ????????
+. Hidden:  ['9',  '13'],  ????????
+. Hidden:  ['0',  '13'],  ????????
+. Hidden:  ['2',  '4'],  ????????
+
+TM:
+. TM10: Hidden Power,  Game Corner
+. TM13: Ice Beam,  Game Corner
+. TM16: Light Screen,  scientist in west-most building
+. TM24: Thunderbolt,  Game Corner
+. TM27: Return,  Animango Otototel,  4F,  old man
+. TM35: Flamethrower,  Game Corner
+
+
+---------- Animango Gym ---------
+
+TM:
+. TM19: Giga Drain,  Snoop
+
+
+---------- Bateman Channel ---------
+
+Find:
+. Big Pearl
+. HP Up
+. Hidden:  ['12',  '17'],  Max Ether
+
+Steal:
+. Tuber Liz, Ricosheep (F) (Lv X), Eviolite
+. Tuber Liz, Kekroach (F) (Lv X), Eviolite
+. Tuber Liz, Praunch (F) (Lv X), Eviolite
+. Tuber Meduka, Chezetta (F) (Lv X-3), Eviolite
+. Channeler Chanel, Singlets (Lv 65), Eviolite
+. Channeler Chanel, Flowre (F) (Lv X-3), Eviolite
+. Channeler Chanel, Dubus (Lv 66), Eviolite
+
+
+---------- Battle Channel ---------
+
+Find:
+. Iron
+. TM36
+
+TM:
+. TM36: Sludge Bomb,  southern coast (requires Surf)
+
+
+---------- Beehive City ---------
+
+Find:
+. Rocky Helmet:  Karma Sub HQ's exit
+. Lax Incense: inebriated man
+. Revive
+. Repeat Ball
+. Fresh Water
+. Potion
+. Rocky Helmet
+
+Steal:
+. Merchant Rosenberg, Chompest (M) (Lv 40), Nugget
+. Merchant Abraham, Chantruth (M) (Lv 44), Nugget
+
+TM:
+. TM45: Attract,  little girl in the western house
+
+
+---------- Beehive Gym ---------
+
+TM:
+. TM04: Calm Mind,  Freddie
+
+
+---------- Beehive city ---------
+
+TM:
+. TM40: Aerial Ace,  Flight school,  Bird Keeper in a left-side desk if you have a Flying-type Pokémon
+
+
+---------- Blacksmith Manor ---------
+
+Find:
+. Choice Specs: post-game
+. Escape Rope
+. Up-Grade
+. Metal Coat
+. PP Max
+. Metal Powder
+. Choice Specs
+. Magnet Ball
+. Ability Pill
+. Lab Key
+. Max Elixir
+. Calcium
+. Iron
+. Light Ball
+. Hyper Potion
+. Barbed Ball
+. Max Revive
+. Max Repel
+. Iron
+. Sun Stone
+. Ether
+. Destiny Knot
+. Hidden:  ['16',  '17'],  Star Piece
+. Hidden:  ['19',  '20'],  Moon Stone
+. Hidden:  ['24',  '5'],  Monster Ball
+. Hidden:  ['13',  '15'],  Wacan Berry
+
+TM:
+. TM07: Hail,  barafag in the northeast corner
+
+
+---------- Burial Tower ---------
+
+Find:
+. TM30
+. Awakening
+. Max Elixir
+. Hyper Potion
+. Zinc
+. Hidden:  ['9',  '4'],  Sacred Ash
+
+TM:
+. TM15: Hyper Beam,  7F,  channeler after showing Unjoy
+. TM30: Shadow Ball,  6F
+
+
+---------- Catalina Range ---------
+
+Find:
+. Razor Claw: route master
+. Scope Lens: route master
+. Big Mushroom
+. Rare Candy
+. Nugget
+. Hyper Potion
+. PP Up
+. Hidden:  ['7',  '28'],  Star Piece
+
+Steal:
+. Fisherman Benny, Randomix (M) (Lv X), Eviolite
+. Fucking Communist, Missletoe (M) (Lv X-3), Eviolite
+. Bird Keeper Pixy, Pixila (F) (Lv X+2), Eviolite
+. Merchant Moishe, Vaultevour (M) (Lv X-1), Nugget
+. Bouncer Token, Ebolable (M) (Lv X-4), Toxic Orb
+. Bouncer Token, Vandash (M) (Lv X), Poké Ball
+
+
+---------- Cave of Sjwhale ---------
+
+Find:
+. Toxic Orb:  B2F
+. Toxic Orb
+. Damp Rock
+
+
+---------- Central Valley ---------
+
+Find:
+. Zoom Lens: route master
+. Carbos
+. Dusk Ball
+. Hyper Potion
+. Nugget
+. Rare Bone
+. Hidden:  ['30',  '6'],  Stardust
+. Hidden:  ['57',  '9'],  Green Shard
+. Hidden:  ['73',  '16'],  Red Shard
+. Hidden:  ['98',  '14'],  Big Mushroom
+. Hidden:  ['49',  '19'],  Tinymushroom
+. Hidden:  ['110',  '5'],  Heal Powder
+. Hidden:  ['72',  '8'],  Stardust
+. Hidden:  ['43',  '24'],  Yellow Shard
+
+
+---------- Checkem Island ---------
+
+Find:
+. Assault Vest: scientist after showing Tarditank
+. Up-Grade
+. PP Up
+. Carbos
+. Monster Ball
+. Protein
+. Hidden:  ['6',  '31'],  Big Pearl
+. Hidden:  ['68',  '12'],  Luxury Ball
+
+
+---------- Clemente Range ---------
+
+Find:
+. Zinc
+. Rare Candy
+. Carbos
+. Fast Ball
+. Focus Sash
+. Max Ether
+. Monster Ball
+. Hidden:  ['15',  '74'],  Bottlecap
+
+Steal:
+. Private Cliffe, Cannonance (M) (Lv X), Chople Berry
+. Private Cliffe, Triggedon (M) (Lv X-5), Eviolite
+
+
+---------- Crashed UFO ---------
+
+Find:
+. TM48
+. Star Piece
+. Super Repel
+. Lemonade
+
+TM:
+. TM48: Skill Swap,  southeast
+
+
+---------- Cratered Point ---------
+
+Find:
+. Max Repel
+. Barbed Ball
+. Hidden:  ['20',  '5'],  Shuca Berry
+
+Steal:
+. Lifter Gaston, Chancer (F) (Lv X-4), Lucky Egg
+
+
+---------- Crystalline Cavern ---------
+
+Find:
+. Shell Bell:  1F
+. Big Faggot
+. Max Elixir
+. TM14
+. Moon Stone
+. Heal Ball
+. Icy Rock
+. Shell Bell
+. Max Revive
+. Hidden:  ['29',  '4'],  Blue Shard
+. Hidden:  ['7',  '12'],  Yellow Shard
+
+TM:
+. TM14: Blizzard,  B2F,  southwest
+
+
+---------- Dank Island ---------
+
+Find:
+. Weed  x5
+
+
+---------- Devil{s Peak ---------
+
+Find:
+. Barbed Ball
+. Escape Rope
+. Max Repel
+. Hidden:  ['8',  '18'],  Red Shard
+. Hidden:  ['17',  '34'],  Green Shard
+
+
+---------- Dryhump Dunes ---------
+
+Find:
+. Expert Belt: route master
+. Max Potion
+. Pearl
+. Rare Candy
+. Smooth Rock
+. Hidden:  ['29',  '19'],  Revive
+. Hidden:  ['77',  '29'],  Yellow Shard
+. Hidden:  ['123',  '22'],  Stardust
+
+Steal:
+. Super Nerd Bobby, Tankube (Lv X), Eviolite
+. Smogoon Dastan, Knokedge (M) (Lv X-3), Soft Sand
+. Smogoon Dastan, Egylamp (M) (Lv X-1), Eviolite
+. Black Belt Traynor, Bruhkid (M) (Lv X-5), Eviolite
+. Black Belt Traynor, Bruhkid (M) (Lv X-4), Eviolite
+. Black Belt Traynor, Ubruh (M) (Lv X-3), Soft Sand
+
+
+---------- Dubs Island ---------
+
+Find:
+. Destiny Knot: after defeating all Midgets
+. Max Potion
+. Hidden:  ['40',  '9'],  PP Max
+
+
+---------- Dubs Island Gym ---------
+
+Steal:
+. Bird Keeper Altar, Ballankey (M) (Lv X+2), Eviolite
+
+
+---------- Esfores City ---------
+
+Find:
+. Antidote
+. Bible
+. Rare Candy
+
+
+---------- Esfores Gym ---------
+
+TM:
+. TM06: Toxic,  Kanye
+
+
+---------- Fochun League ---------
+
+Steal:
+. Merchant Feldstein, Phantash (Lv 68), Iron Ball
+. Merchant Feldstein, Chompest (Lv 69), Dark Gem
+. Merchant Feldstein, Vandash (Lv 69), Choice Scarf
+. Merchant Blumenfeld, Phantash (Lv 69), Lagging Tail
+. Merchant Blumenfeld, Baitmaster (Lv 69), Flame Orb
+
+
+---------- Futaba Chambers ---------
+
+Find:
+. TM12
+. TM20
+. Magnet Ball
+. Zinc
+. Max Repel
+. PP Max
+. Elixir
+. PP Up
+. Nugget
+. DDT Spray
+. Nevermeltice
+. Hidden:  ['10',  '26'],  Full Restore
+. Hidden:  ['23',  '3'],  Blue Shard
+. Hidden:  ['12',  '4'],  Green Shard
+. Hidden:  ['60',  '29'],  Max Revive
+. Hidden:  ['24',  '2'],  Red Shard
+. Hidden:  ['15',  '2'],  Star Piece
+
+TM:
+. TM12: Taunt,  B4F
+. TM20: Safeguard,  B4F
+
+
+---------- Gadech City ---------
+
+Find:
+. Quick Ball
+. Repel
+
+
+---------- Gadech Gym ---------
+
+TM:
+. TM39: Rock Tomb,  Brock
+
+
+---------- Get Island ---------
+
+Find:
+. Leftovers:  Telekino Hotel,  3F
+. Black Sludge:  Telekino Hotel,  2F , immigrant
+. Masta Ball
+. Great Ball
+. X Speed
+. Leftovers
+. Katana
+. Up-Grade
+. Zinc
+. Max Elixir
+. Big Mushroom
+. Lemonade
+. Lum Berry
+. Revive
+. Moomoo Milk
+. Full Restore
+. Hidden:  ['9',  '4'],  Haban Berry
+. Hidden:  ['5',  '6'],  Rare Candy
+. Hidden:  ['8',  '5'],  Max Revive
+
+
+---------- Indian Cave ---------
+
+Find:
+. HP Up
+
+Steal:
+. Neo Karma Grunt, Chanolour (F) (Lv X-3), Light Clay
+. Neo Karma Grunt, Upbeddit (M) (Lv X-1), Leftovers
+. Neo Karma Grunt, Thundacock (M) (Lv X-2), Sharp Beak
+
+
+---------- Innawoods Town ---------
+
+Find:
+. Star Piece
+. Hidden:  ['23',  '5'],  Tinymushroom
+
+
+---------- Karma Sub HQ ---------
+
+Find:
+. Wide Lens:  B2F
+. Lift Key
+. Super Repel
+. Calcium
+. Masta Ball
+. Super Potion
+. Far Doll
+. Wide Lens
+. Poké Doll
+. Hidden:  ['9',  '21'],  Magnet Ball
+. Hidden:  ['15',  '21'],  Fast Ball
+. Hidden:  ['15',  '19'],  Max Revive
+. Hidden:  ['7',  '14'],  Poké Ball
+. Hidden:  ['1',  '5'],  Ether
+
+
+---------- Lake Virgin ---------
+
+Find:
+. White Herb
+. Max Repel
+. Hidden:  ['16',  '69'],  Tinymushroom
+. Hidden:  ['39',  '68'],  Lum Berry
+
+
+---------- Marina Trail ---------
+
+Find:
+. Mental Herb: post-game
+. Mental Herb
+. Hidden:  ['3',  '18'],  Tinymushroom
+. Hidden:  ['63',  '18'],  Yellow Shard
+
+Steal:
+. Bouncer Banks, Rolango (F) (Lv X-2), Eviolite
+
+
+---------- Memes Inc. ---------
+
+Find:
+. Super Potion
+. Luxury Ball
+. Rude Ball
+. Max Revive
+. Max Potion
+. Up-Grade
+. HP Up
+. DDT Spray
+. Ether
+. Hidden:  ['27',  '13'],  Quick Ball
+. Hidden:  ['0',  '5'],  Stardust
+. Hidden:  ['10',  '4'],  Weed
+. Hidden:  ['0',  '10'],  Berry Juice
+. Hidden:  ['24',  '10'],  Full Restore
+
+TM:
+. TM29: Psychic,  director
+
+
+---------- Mt Keketoa ---------
+
+Find:
+. Power Herb:  Exterior , South
+
+
+---------- Mt. Clover ---------
+
+Find:
+. Power Herb:  B1F
+. Safety Goggles:  2F
+. Rocky Helmet:  Summit
+. Hyper Potion
+. Rare Bone
+. Rare Bone
+. Rare Bone
+. Rare Bone
+. Thicc Bone
+. Power Herb
+. Dusk Ball
+. Max Revive
+. Terrain Ext.
+. Full Restore
+. Dream Ball
+. Dream Ball
+. Revive
+. Full Restore
+. Dusk Ball
+. Monster Ball
+. Full Heal
+. Safety Specs
+. Max Revive
+. Rocky Helmet
+. Elixir
+. Star Piece
+. Revival Herb
+. Hidden:  ['27',  '36'],  Sun Stone
+. Hidden:  ['23',  '16'],  Nugget
+. Hidden:  ['36',  '13'],  Green Shard
+. Hidden:  ['10',  '26'],  Starf Berry
+
+Steal:
+. Neo Karma Grunt, Bulbapedo (M) (Lv X-3), Sitrus Berry
+. Neo Karma Grunt, Upbeddit (F) (Lv X-2), Quick Claw
+. Neo Karma Grunt, Senketula (F) (Lv X-2), Custap Berry
+. Neo Karma Grunt, Jerkle (Lv X-3), Custap Berry
+. Neo Karma Grunt, Upbeddit (F) (Lv X-3), Colbur Berry
+. Neo Karma Grunt, Cansumor (M) (Lv X-3), Air Balloon
+
+
+---------- Mt. Keketoa ---------
+
+Find:
+. Choice Band:  1F , requires Rock Smash
+. Life Orb:  1F
+. Lagging Tail:  B1F , requires Surf and Dive
+. Flame Orb:  3F , volcano, requires Surf, Waterfall and Rock Climb
+. Nugget
+. Protein
+. Bottlecap
+. Power Herb
+. Heat Rock
+. Fire Stone
+. PP Up
+. Rare Candy
+. Nugget
+. Full Restore
+. Dusk Ball
+. Max Repel
+. Full Heal
+. Revive
+. Escape Rope
+. Rare Bone
+. Protein
+. B-Ball
+. Life Orb
+. Choice Band
+. Lagging Tail
+. Flame Orb
+. Hidden:  ['26',  '13'],  Thunderstone
+. Hidden:  ['8',  '31'],  Heart Scale
+. Hidden:  ['44',  '34'],  Big Pearl
+. Hidden:  ['43',  '4'],  Red Shard
+. Hidden:  ['33',  '15'],  Yellow Shard
+. Hidden:  ['8',  '22'],  Payapa Berry
+. Hidden:  ['6',  '26'],  Energy Root
+
+
+---------- Mt. Moot ---------
+
+Find:
+. Potion
+. Nugget
+. Paralyz Heal
+. TM09
+. Moon Stone
+. Rare Candy
+. Hidden:  ['45',  '27'],  Ether
+. Hidden:  ['39',  '11'],  Moon Stone
+. Hidden:  ['8',  '21'],  Everstone
+. Hidden:  ['2',  '36'],  Tinymushroom
+. Hidden:  ['39',  '34'],  Tinymushroom
+. Hidden:  ['46',  '2'],  Tinymushroom
+. Hidden:  ['26',  '2'],  Tinymushroom
+. Hidden:  ['6',  '12'],  Big Mushroom
+
+TM:
+. TM09: Bullet Seed,  1F,  south of the westernmost ledge
+
+
+---------- Oogabuga Island ---------
+
+Find:
+. Nugget
+. PP Up
+. Rare Bone
+. Luxury Ball
+. Hyper Potion
+. Green Shard
+. Monster Ball
+. Hidden:  ['40',  '39'],  Big Mushroom
+
+
+---------- Outcast Island ---------
+
+Find:
+. Cage Key
+. Hidden:  ['18',  '6'],  Rawst Berry
+
+
+---------- Outcast Island Gym ---------
+
+TM:
+. TM38: Fire Blast,  Polk
+
+
+---------- Pa'ia University ---------
+
+TM:
+. TM32: Double Team,  2F,  smoogon
+
+
+---------- Paia University ---------
+
+Steal:
+. Neo Karma Grunt, Nutjobber (M) (Lv X-1), Eviolite
+. Neo Karma Grunt, Upbote (F) (Lv X-3), Eviolite
+. Neo Karma Grunt, Mehndior (F) (Lv X), Eviolite
+. Neo Karma Grunt, Cokemmoth (M) (Lv X-2), Life Orb
+. Neo Karma Grunt, Faptime (Lv X-1), Rock Gem
+. Neo Karma Grunt, Dragaya (F) (Lv X-2), Focus Sash
+. Neo Karma Grunt, Hornicier (F) (Lv X-1), Eviolite
+
+
+---------- Parax Town ---------
+
+Find:
+. Hidden:  ['29',  '20'],  Cleanse Tag
+
+
+---------- Pattern Kush ---------
+
+Steal:
+. Meth Cookers Hart&Bryan, Tankube (Lv X), Eviolite
+. Stoner MK, Illumatrix (M) (Lv X-1), Weed
+. Stoner MK, Mariguana (M) (Lv X-1), Eviolite
+. Gamer Rufus, Mariguana (M) (Lv X-5), Eviolite
+. Gamer Rufus, Bongecko (M) (Lv X-8), Eviolite
+
+
+---------- Pa{ia Preserve ---------
+
+Find:
+. Max Ether
+. Golden Cap
+. Nugget
+. Golden Cap
+. Nugget
+. Nugget
+. Rare Bone
+. Nugget
+. Nugget
+. Hidden:  ['61',  '66'],  Big Root
+. Hidden:  ['78',  '12'],  Pearl
+
+
+---------- Quads Island ---------
+
+Find:
+. Luxury Ball
+. Hidden:  ['29',  '15'],  Red Shard
+. Hidden:  ['49',  '1'],  Quick Ball
+
+
+---------- Queueay Town ---------
+
+TM:
+. TM28: Dig,  immigrant
+
+
+---------- Quints Island ---------
+
+Find:
+. Iron
+. Bottlecap
+. Ultra Ball
+. Max Ether
+
+
+---------- Rock Tunnel ---------
+
+Find:
+. TM47
+. Leaf Stone
+. Fire Stone
+. Hard Stone
+. Max Revive
+. Hidden:  ['56',  '14'],  Yellow Shard
+. Hidden:  ['10',  '22'],  Burn Heal
+. Hidden:  ['25',  '55'],  Green Shard
+. Hidden:  ['8',  '43'],  Red Shard
+. Hidden:  ['74',  '9'],  Burn Heal
+. Hidden:  ['53',  '46'],  Ultra Ball
+. Hidden:  ['34',  '33'],  X Accuracy
+. Hidden:  ['46',  '21'],  Blue Shard
+. Hidden:  ['37',  '45'],  Max Ether
+. Hidden:  ['74',  '39'],  Fresh Water
+
+Steal:
+. Fucking Dick, Motherfuck (M) (Lv 31), Choice Band
+. Camper Bear, Urswine (M) (Lv 32), Berry Juice
+. Black Belt Ryu, Chasumo (M) (Lv 30), Liechi Berry
+. Meth Cookers Walt & Jess, Whizzard (F) (Lv 32), Never-Melt Ice
+. Meth Cookers Walt & Jess, Mariguana (F) (Lv 32), Miracle Seed
+
+TM:
+. TM31: Brick Break,  B1F,  old man
+. TM47: Steel Wing,  B1F,  southwest
+
+
+---------- Rotting Pit ---------
+
+Find:
+. Revival Herb
+
+
+---------- Route 1 ---------
+
+Find:
+. Potion
+
+
+---------- Route 10 ---------
+
+Find:
+. X Speed
+. TM49
+. X Attack
+. Hidden:  ['13',  '11'],  Shuca Berry
+. Hidden:  ['20',  '22'],  Yache Berry
+. Hidden:  ['34',  '17'],  Charti Berry
+. Hidden:  ['68',  '19'],  Potion
+. Hidden:  ['26',  '10'],  Cheri Berry
+. Hidden:  ['65',  '21'],  Antidote
+. Hidden:  ['63',  '17'],  Poké Ball
+. Hidden:  ['52',  '9'],  Blue Shard
+
+Steal:
+. Hiker Blondie, Triggedon (M) (Lv 33), Eviolite
+
+TM:
+. TM49: Snatch,  among the fenced off grass,  west of the tower
+
+
+---------- Route 11 ---------
+
+Find:
+. Iron Ball: route master
+. TM11
+. PP Up
+. Rare Candy
+. Rasta Ball
+. Hidden:  ['33',  '154'],  Revive
+. Hidden:  ['16',  '121'],  Green Shard
+. Hidden:  ['32',  '86'],  Big Pearl
+. Hidden:  ['32',  '123'],  Big Pearl
+. Hidden:  ['12',  '144'],  Max Potion
+. Hidden:  ['8',  '98'],  Ultra Ball
+. Hidden:  ['14',  '97'],  Hyper Potion
+. Hidden:  ['15',  '95'],  Paralyz Heal
+. Hidden:  ['16',  '4'],  Salac Berry
+
+Steal:
+. Ace Trainer Draco, Draconius (M) (Lv 50), Silk Scarf
+
+TM:
+. TM11: Sunny Day,  on the island with the Youngster
+
+
+---------- Route 12 ---------
+
+Find:
+. King's Rock
+. Ultra Ball
+. TM43
+. Junk Ball
+. Max Revive
+. Hyper Potion
+. King's Rock
+. Nugget
+. Hidden:  ['82',  '6'],  Red Shard
+. Hidden:  ['31',  '22'],  Heal Ball
+
+Steal:
+. Fucking Sniper, Tankube (Lv 50), Eviolite
+. Fucking Sniper, Piguson (M) (Lv 43), Leftovers
+
+TM:
+. TM43: Secret Power,  in the middle of the route,  between a big rock and a smashable rock (requires Rock Smash)
+
+
+---------- Route 13 ---------
+
+Find:
+. Full Restore
+. TM18
+. Max Repel
+. Hidden:  ['6',  '18'],  Great Ball
+. Hidden:  ['29',  '20'],  Star Piece
+. Hidden:  ['49',  '21'],  Revive
+. Hidden:  ['31',  '11'],  Blue Shard
+
+Steal:
+. Rocker Luca, Galavire (Lv 50), Chople Berry
+. Youngster Joey, Motherfuck (M) (Lv 42), Leftovers
+
+TM:
+. TM18: Rain Dance,  south
+
+
+---------- Route 14 ---------
+
+Find:
+. White Herb
+. White Herb
+. Full Heal
+. Hidden:  ['8',  '44'],  Rawst Berry
+. Hidden:  ['20',  '22'],  Net Ball
+
+Steal:
+. Ace Trainer Helga, Honrade (M) (Lv 51), Salac Berry
+
+
+---------- Route 15 ---------
+
+Find:
+. Quick Ball
+. Hidden:  ['23',  '5'],  Elixir
+. Hidden:  ['50',  '20'],  Custap Berry
+
+
+---------- Route 16 ---------
+
+Find:
+. Air Balloon: route master
+. Paralyz Heal
+. PP Up
+. Ether
+. TM42
+. Great Ball
+. Hidden:  ['30',  '17'],  Super Potion
+. Hidden:  ['109',  '18'],  Occa Berry
+. Hidden:  ['56',  '19'],  Super Potion
+. Hidden:  ['64',  '7'],  Revive
+. Hidden:  ['73',  '33'],  Tinymushroom
+. Hidden:  ['9',  '36'],  Heal Powder
+. Hidden:  ['39',  '9'],  Blue Shard
+
+TM:
+. TM42: Facade,  east
+
+
+---------- Route 17 ---------
+
+Find:
+. Super Potion
+. Hidden:  ['27',  '9'],  X Attack
+
+Steal:
+. Gamer Jocker, Nonegative (Lv 35), Flying Gem
+. Gamer Jocker, Bukitlee (Lv 34), Steel Gem
+
+
+---------- Route 18 ---------
+
+Find:
+. Super Potion
+. Super Repel
+. Iron
+. Hidden:  ['66',  '8'],  Tinymushroom
+
+
+---------- Route 19 ---------
+
+Find:
+. Dream Ball
+. Hidden:  ['28',  '20'],  Big Pearl
+. Hidden:  ['15',  '7'],  Pearl
+. Hidden:  ['35',  '13'],  Stardust
+. Hidden:  ['35',  '22'],  Pearl
+
+
+---------- Route 2 ---------
+
+Find:
+. Dream Ball
+. TwistedSpoon
+. PP Up
+. Potion
+
+
+---------- Route 20 ---------
+
+Find:
+. Hidden:  ['7',  '6'],  Big Mushroom
+. Hidden:  ['18',  '34'],  Blue Shard
+
+
+---------- Route 21 ---------
+
+Find:
+. Sea Incense: swimmer
+. Hyper Potion
+. Hidden:  ['8',  '14'],  Revive
+. Hidden:  ['55',  '8'],  Weed
+
+
+---------- Route 22 ---------
+
+Find:
+. Leftovers: youngster
+. Heal Ball
+. Hidden:  ['19',  '7'],  Pearl
+
+
+---------- Route 24 ---------
+
+Find:
+. Rare Candy
+. Max Potion
+. Poison Barb
+. Full Restore
+. Elixir
+. Max Revive
+. Master Ball
+. Full Heal
+. Revive
+. TM33
+. Ultra Ball
+. Full Heal
+. Full Restore
+. Hyper Potion
+
+
+---------- Route 25 ---------
+
+Find:
+. Tor Doll
+. Quick Ball
+
+
+---------- Route 26 ---------
+
+Find:
+. Shed Shell: route master
+. Eject Button: route master
+. Max Elixir
+
+
+---------- Route 27 ---------
+
+Find:
+. Elixir
+. Hidden:  ['13',  '18'],  Soda Pop
+
+Steal:
+. Youngster Kent, Ribbizap (M) (Lv 19), Oran Berry
+. Furry Mittens, Cloucat (M) (Lv 19), Sitrus Berry
+. Camper Frank, Krokling (M) (Lv 19), Oran Berry
+. Camper Frank, Faeriock (M) (Lv 20), Sitrus Berry
+. Lifter Greg, Reptyke (M) (Lv 21), Sitrus Berry
+. Merchant Goldberg, Chantruth (M) (Lv 22), Amulet Coin
+
+
+---------- Route 28 ---------
+
+Find:
+. Calcium
+. Ice Heal
+. Super Repel
+. X Special
+. Hidden:  ['9',  '4'],  Stardust
+. Hidden:  ['47',  '28'],  Tinymushroom
+. Hidden:  ['58',  '15'],  Super Repel
+. Hidden:  ['93',  '18'],  Everstone
+. Hidden:  ['52',  '27'],  Green Shard
+. Hidden:  ['93',  '11'],  Tinymushroom
+. Hidden:  ['63',  '21'],  Great Ball
+. Hidden:  ['28',  '9'],  Potion
+
+Steal:
+. Smogoon Josh, Smogaroben (F) (Lv 24), Salac Berry
+. Theorist John, Ayylamo (F) (Lv 25), Sitrus Berry
+. Fucking Noob, Dragun (M) (Lv 23), Oran Berry
+
+
+---------- Route 29 ---------
+
+Find:
+. TM50
+. Max Potion
+. Carbos
+. Hidden:  ['3',  '18'],  Big Mushroom
+. Hidden:  ['21',  '41'],  Big Mushroom
+. Hidden:  ['10',  '67'],  Dusk Ball
+
+TM:
+. TM50: Overheat,  before the Pokémon League,  in the small maze of pegs
+
+
+---------- Route 3 ---------
+
+Find:
+. Hidden:  ['23',  '6'],  Green Shard
+
+
+---------- Route 30 ---------
+
+Find:
+. Big Root: route master
+. Nugget
+. PP Up
+. Quick Ball
+. Full Restore
+. Calcium
+. Max Revive
+. Max Elixir
+. Pearl
+. PP Max
+. Hyper Potion
+. Revive
+. Ultra Ball
+. Metal Coat
+. Hidden:  ['41',  '31'],  Green Shard
+. Hidden:  ['33',  '5'],  Full Heal
+
+Steal:
+. Gentleman oboma, Vandash (F) (Lv 70), Watmel Berry
+. Gentleman oboma, Vandash (M) (Lv 71), Sitrus Berry
+. Gentleman oboma, Vandash (M) (Lv 72), Berry Juice
+. Gentleman oboma, Vandash (M) (Lv 73), Poké Ball
+. Gentleman oboma, Vandash (F) (Lv 74), Watmel Berry
+. Gentleman oboma, Vandash (F) (Lv 75), Focus Band
+. Tranny Alec, Inbitween (M) (Lv 70), Eviolite
+. Furry Hooter, Masdawg (M) (Lv 71), Eviolite
+
+
+---------- Route 31 ---------
+
+Find:
+. Hyper Potion
+. Barbed Ball
+. Elixir
+. Metal Powder
+. Nugget
+. Carbos
+. Ultra Ball
+. TM25
+. Hidden:  ['28',  '123'],  Blue Shard
+. Hidden:  ['19',  '118'],  Red Shard
+. Hidden:  ['27',  '31'],  Big Mushroom
+
+TM:
+. TM25: Thunder,  northwestern corner on top of the top waterfall (requires Waterfall)
+
+
+---------- Route 32 ---------
+
+Find:
+. Zinc
+. Fast Ball
+. Max Repel
+. Hidden:  ['33',  '7'],  Revive
+. Hidden:  ['81',  '10'],  X Accuracy
+
+Steal:
+. Hiker Landon, Shurismash (M) (Lv 62), Quick Claw
+. Hiker Landon, Vaultevour (M) (Lv 62), Amulet Coin
+. Hiker Landon, Barbarkley (M) (Lv 63), B-Ball
+. Hiker Landon, Senketula (M) (Lv 64), Bright Powder
+. Hiker Landon, Apartmant (M) (Lv 63), Sitrus Berry
+
+
+---------- Route 4 ---------
+
+Find:
+. X Speed
+. Hidden:  ['18',  '13'],  Awakening
+. Hidden:  ['94',  '10'],  Repel
+. Hidden:  ['61',  '8'],  Great Ball
+. Hidden:  ['5',  '11'],  Revive
+
+TM:
+. TM46: Thief,  merchant in the Pokémon Center
+
+
+---------- Route 5 ---------
+
+Find:
+. Lucky Egg
+. Great Ball
+. Lucky Egg
+. Hidden:  ['23',  '24'],  Net Ball
+. Hidden:  ['7',  '36'],  Paralyz Heal
+. Hidden:  ['41',  '32'],  X Accuracy
+
+Steal:
+. Pokémon Ranger Artyom, Charagon (Lv 25), Salac Berry
+
+
+---------- Route 6 ---------
+
+Find:
+. Weakness Policy: route master
+. Water Stone
+. TM41
+. Calcium
+. Max Potion
+. Hidden:  ['108',  '5'],  Max Ether
+. Hidden:  ['126',  '23'],  Super Repel
+. Hidden:  ['74',  '10'],  Rare Candy
+. Hidden:  ['138',  '5'],  Great Ball
+. Hidden:  ['153',  '15'],  Nest Ball
+. Hidden:  ['159',  '22'],  Super Potion
+. Hidden:  ['21',  '7'],  Great Ball
+. Hidden:  ['129',  '20'],  Super Potion
+. Hidden:  ['177',  '6'],  Revive
+. Hidden:  ['52',  '14'],  Burn Heal
+. Hidden:  ['131',  '10'],  Full Heal
+. Hidden:  ['116',  '15'],  Nugget
+. Hidden:  ['47',  '7'],  Tinymushroom
+. Hidden:  ['105',  '21'],  Rare Candy
+. Hidden:  ['76',  '18'],  X Speed
+. Hidden:  ['87',  '16'],  Elixir
+. Hidden:  ['54',  '6'],  Ether
+. Hidden:  ['10',  '19'],  Iron
+
+Steal:
+. Feminist Lilith, Fishnism (F) (Lv 24), Mental Herb
+. Stoner Wayne, Furnazi (M) (Lv 24), Sitrus Berry
+. Stoner Wayne, Bongecko (M) (Lv 25), Leftovers
+
+TM:
+. TM41: Torment,  on top of the middle waterfall (requires Surf)
+
+
+---------- Route 7 ---------
+
+Find:
+. Soothe Bell:  MooMoo Café
+. Focus Band: route master
+. Focus Sash: route master
+. Rare Candy
+. Super Potion
+. Ultra Ball
+. Awakening
+. Hidden:  ['16',  '80'],  Ether
+. Hidden:  ['7',  '120'],  Full Restore
+. Hidden:  ['32',  '124'],  HP Up
+. Hidden:  ['17',  '130'],  Revive
+. Hidden:  ['25',  '76'],  Ultra Ball
+. Hidden:  ['12',  '57'],  Red Shard
+. Hidden:  ['31',  '19'],  Tinymushroom
+. Hidden:  ['8',  '5'],  Timer Ball
+. Hidden:  ['23',  '45'],  Burn Heal
+. Hidden:  ['25',  '58'],  Yellow Shard
+. Hidden:  ['27',  '67'],  Guard Spec.
+
+Steal:
+. Lifter Chad, Muscledude (M) (Lv 26), Choice Band
+
+
+---------- Route 8 ---------
+
+Find:
+. Potion
+. Hidden:  ['22',  '5'],  Aspear Berry
+. Hidden:  ['3',  '27'],  Super Repel
+
+
+---------- Route 9 ---------
+
+Find:
+. Super Potion
+. Dream Ball
+. Hidden:  ['42',  '17'],  Leppa Berry
+. Hidden:  ['35',  '5'],  Lum Berry
+
+Steal:
+. Lifter Jean Claude, Chasumo (M) (Lv 33), Black Glasses
+
+
+---------- Ruse Cruise ---------
+
+Find:
+. Max Ether
+. Protein
+. Poké Ball
+. Potion
+. TM05
+. Smoke Ball
+. Luxury Ball
+. Awakening
+. Hidden:  ['14',  '11'],  Max Elixir
+. Hidden:  ['21',  '5'],  Hyper Potion
+. Hidden:  ['14',  '4'],  Leppa Berry
+. Hidden:  ['1',  '7'],  Oran Berry
+. Hidden:  ['14',  '8'],  Chesto Berry
+. Hidden:  ['14',  '6'],  Chople Berry
+
+Steal:
+. Team Karma Grunt, Burdmen (F) (Lv 26), Poison Barb
+. Merchant Aaron, Chompest (M) (Lv 26), Nugget
+. Team Karma Grunt, Chanolour (F) (Lv 27), Sitrus Berry
+. Barafag Brando, Hulkan (M) (Lv 25), Macho Brace
+. Team Karma Grunt, Smogaroben (M) (Lv 25), Eviolite
+. Team Karma Grunt, Nomaestro (Lv 60), Leftovers
+. Scientist Kayden, Pikotton (M) (Lv 54), Light Ball
+
+
+---------- Ruse Cruise 1 ---------
+
+TM:
+. TM05: Roar,  in the first room from left
+
+
+---------- Ruse Cruise 2 ---------
+
+TM:
+. TM33: Reflect,  bottom left room
+
+
+---------- Safari Zone ---------
+
+Find:
+. Grip Claw:  Center Area
+. Bright Powder:  Area 2
+. Timer Ball
+. Nugget
+. Brightpowder
+. King's Rock
+. TM02
+. Nest Ball
+. Max Potion
+. Grip Claw
+. Sun Stone
+. Hidden:  ['36',  '13'],  Green Shard
+. Hidden:  ['14',  '25'],  Rawst Berry
+. Hidden:  ['8',  '27'],  Rawst Berry
+. Hidden:  ['11',  '27'],  Thunderstone
+. Hidden:  ['47',  '26'],  Yellow Shard
+
+TM:
+. TM02: Dragon Claw,  Area 1,  southeast corner (requires Surf)
+
+
+---------- Saltshaker Beach ---------
+
+Find:
+. Hidden:  ['20',  '18'],  Blue Shard
+
+Steal:
+. Feminist Vera, Seamapan (F) (Lv X), Choice Band
+. Feminist Vera, Sjwhale (F) (Lv X-2), Chesto Berry
+. Feminist Vera, Pikotton (M) (Lv X-3), Air Balloon
+. Feminist Gloria, Urswine (M) (Lv X-3), Bacon Strip
+
+
+---------- Silver Point ---------
+
+Find:
+. Burn Drive: Hackerman
+. Chill Drive: Hackerman
+. Douse Drive: Hackerman
+. Shock Drive: Hackerman
+. Full Restore
+. Bottlecap
+. Iron
+. Revival Herb
+. Binding Band
+. Luxury Ball
+. Porn Drive
+. Hidden:  ['5',  '2'],  Big Pearl
+. Hidden:  ['19',  '9'],  Awakening
+. Hidden:  ['16',  '2'],  Dive Ball
+. Hidden:  ['2',  '3'],  Green Shard
+. Hidden:  ['28',  '5'],  Stardust
+. Hidden:  ['17',  '38'],  Star Piece
+. Hidden:  ['57',  '60'],  Stardust
+. Hidden:  ['61',  '79'],  Pearl
+. Hidden:  ['44',  '69'],  Big Pearl
+. Hidden:  ['5',  '21'],  Bottlecap
+
+Steal:
+. Terrorist Abu Hajar, Illuminowl (M) (Lv X), Eviolite
+. Memer Kana, Fireshitwi (F) (Lv X-1), Eviolite
+. Swimmer Jamie, Walruse (M) (Lv X-5), Eviolite
+
+
+---------- Singles Island ---------
+
+Find:
+. Rare Candy
+. Soft Sand
+. Bottlecap
+
+TM:
+. TM17: Protect,  old man outside Pokémon Center
+
+
+---------- St. Rosa Range ---------
+
+Find:
+. Leftovers: requires Rock Climb
+. Silverpowder
+. Timer Ball
+. Leftovers
+. Rare Candy
+. Protein
+. Full Heal
+. Ultra Ball
+. Hidden:  ['12',  '5'],  Green Shard
+. Hidden:  ['34',  '21'],  Star Piece
+. Hidden:  ['34',  '26'],  Blue Shard
+
+
+---------- Telekino City ---------
+
+Steal:
+. Officer Thurus, Rainglock (Lv X-3), Choice Specs
+. Officer Thurus, Rainglock (Lv X-3), Choice Scarf
+. Burglar Tyriekus, Vandash (M) (Lv X-2), Poké Ball
+. Burglar Tyriekus, Gampster (M) (Lv X-2), Amulet Coin
+. Burglar Adriandious, Vandash (M) (Lv X-3), Poké Ball
+. Burglar Adriandious, Barbarkley (M) (Lv X-2), B-Ball
+. Neo Karma Grunt, Warney (F) (Lv X-2), Eviolite
+. Neo Karma Grunt, Banageddon (F) (Lv X-3), Quick Claw
+
+
+---------- Telekino City Gym ---------
+
+Steal:
+. Scientist Bardock, Eareticle (M) (Lv X-1), Eviolite
+. Black Belt Paragus, Dragaya (M) (Lv X-3), Eviolite
+
+
+---------- Telekino TV Broadcasting ---------
+
+Steal:
+. Neo Karma Grunt, Lizakbar (M) (Lv X-3), Choice Scarf
+
+
+---------- Tittysprinkle Rocks ---------
+
+Find:
+. Weed
+. Iapapa Berry
+. Big Pearl
+. Hidden:  ['12',  '28'],  Heart Scale
+. Hidden:  ['15',  '125'],  Heart Scale
+
+Steal:
+. Triathlete Alonzo, Manatorque (M) (Lv X), Eviolite
+. Swimmer Agusto, Flowre (F) (Lv X), Eviolite
+. Swimmer Agusto, Seamapan (F) (Lv X), Leftovers
+
+
+---------- Torabor Bay ---------
+
+Find:
+. Choice Scarf: Captain Cut
+. PP Up
+. Sitrus Berry
+. Hidden:  ['18',  '9'],  Nugget
+
+
+---------- Triport City ---------
+
+Find:
+. Lucky Egg:  Pokémon Battle Club , furry
+. Max Revive
+
+TM:
+. TM23: Iron Tail,  barafag on the island (requires Surf)
+
+
+---------- Triport Gym ---------
+
+TM:
+. TM34: Shock Wave,  Guy
+
+
+---------- Trips Island ---------
+
+Find:
+. Hidden:  ['40',  '9'],  Big Mushroom
+
+
+---------- Trips Island Gym ---------
+
+Steal:
+. Skeleton Sans, Spookster (M) (Lv X), Eviolite
+
+
+---------- Underground Path ---------
+
+Find:
+. Hidden:  ['77',  '5'],  Repel
+. Hidden:  ['53',  '2'],  Antidote
+. Hidden:  ['29',  '4'],  Potion
+. Hidden:  ['14',  '3'],  Awakening
+. Hidden:  ['6',  '61'],  Ether
+. Hidden:  ['2',  '47'],  Ice Heal
+. Hidden:  ['3',  '19'],  Paralyz Heal
+. Hidden:  ['5',  '34'],  Potion
+. Hidden:  ['6',  '5'],  Antidote
+
+
+---------- Victory Road ---------
+
+Find:
+. Max Potion
+. Dragon Fang
+. TM22
+. Sun Stone
+. TM01
+. Rare Candy
+. Hidden:  ['26',  '30'],  Quick Ball
+
+Steal:
+. Lifter Arnold, Kuuroba (M) (Lv 63), Choice Band
+. Ace Trainer Sandokan, Mabster (M) (Lv 61), Black Belt
+. Ace Trainer Sandokan, Huntabre (M) (Lv 64), Salac Berry
+. Merchant Harpagon, Vaultevour (M) (Lv 63), Nugget
+. Merchant Harpagon, Chantruth (M) (Lv 64), Nugget
+. Fucking L. Jackson, Motherfuck (F) (Lv 69), Choice Band
+. Fucking L. Jackson, Motherfuck (M) (Lv 69), Choice Band
+. Fucking L. Jackson, Motherfuck (M) (Lv 69), Choice Band
+. Fucking L. Jackson, Motherfuck (M) (Lv 69), Choice Band
+. Fucking L. Jackson, Motherfuck (M) (Lv 69), Choice Band
+. Fucking L. Jackson, Motherfuck (M) (Lv 69), Choice Band
+. Gentleman James, Glassannon (M) (Lv 62), Focus Sash
+. Gentleman James, Batterex (M) (Lv 61), Black Belt
+. Gentleman James, Cannonance (M) (Lv 63), Scope Lens
+. Smogoon Hercules, Chompest (M) (Lv 64), Eviolite
+. Smogoon Hercules, Chancer (F) (Lv 64), Eviolite
+. Terrorist Ahmad, Lizakbar (M) (Lv 61), Charcoal
+. Terrorist Ahmad, Unjoy (F) (Lv 64), Leftovers
+. Ace Duo Orn & Smoug, Barbarkley (M) (Lv 60), Kings Rock
+. Ace Duo Orn & Smoug, Vaultevour (M) (Lv 60), Leftovers
+. Ace Duo Orn & Smoug, Glassannon (M) (Lv 62), Salac Berry
+. Ace Duo Orn & Smoug, Marleyzard (M) (Lv 62), Leftovers
+. Ace Duo Orn & Smoug, Scythear (M) (Lv 64), Bright Powder
+. Ace Duo Orn & Smoug, Manatank (M) (Lv 64), Leftovers
+
+TM:
+. TM01: Focus Punch,  3F,  East in the lowest level
+. TM21: Frustration,  from the Neckbeard on the south platform
+. TM22: Solar Beam,  on top of the waterfall (requires Waterfall)
+
+
+---------- Vitlya City ---------
+
+Find:
+. Quick Claw: youngster
+. Hyper Potion
+. Hidden:  ['3',  '18'],  Red Shard
+
+TM:
+. TM44: Rest,  fat guy (requires Cut)
+
+
+---------- Vitlya Gym ---------
+
+Steal:
+. Ace Trainer Felicia, Rectreem (M) (Lv 60), Leftovers
+
+TM:
+. TM26: Earthquake,  Darude
+
+
+---------- Vitlya Woods ---------
+
+Find:
+. Potion
+. Potion
+. Antidote
+. Poké Ball
+. Hidden:  ['41',  '17'],  Potion
+. Hidden:  ['50',  '45'],  Antidote
+
+
+---------- Wetback Trail ---------
+
+Find:
+. B-Ball
+. Carbos
+
+
+---------- Zanyis Town Ruins ---------
+
+Find:
+. TM37
+. Rare Bone
+. Hidden:  ['36',  '11'],  Revive
+
+TM:
+. TM37: Sandstorm,  southwest
