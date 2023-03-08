@@ -1,0 +1,1459 @@
+------ Leader Brock (id: 0xb) ------
+
+Level cap : 14
+
+Lanshil (M) @ None
+Ability: Sturdy
+Level: 11
+EVs: 4 HP/4 Atk/4 Def/4 SpA/16 SpD/4 Spe
+IVs: 16 HP/16 Atk/16 Def/16 SpA/16 SpD/16 Spe
+Stats: 33/17/25/13/20/17
+Type: Rock
+Impish Nature
+- Peck
+- Rock Tomb
+- Horn Attack
+- Mud-Slap
+
+Ballacle (M) @ None
+Ability: Pickup
+Level: 12
+EVs: 4 HP/4 Atk/4 Def/4 SpA/4 SpD/4 Spe
+IVs: 16 HP/16 Atk/16 Def/16 SpA/16 SpD/16 Spe
+Stats: 38/19/22/14/20/27
+Type: Rock
+Jolly Nature
+- Rock Polish
+- Rock Tomb
+- Barrage
+- Arm Thrust
+
+Chompest (M) @ Sitrus Berry
+Ability: Intimidate
+Level: 14
+EVs: 8 HP/8 Atk/8 Def/8 SpA/8 SpD/8 Spe
+IVs: 20 HP/20 Atk/20 Def/20 SpA/20 SpD/20 Spe
+Stats: 49/36/34/19/27/19
+Type: Rock/Dark
+Impish Nature
+- Rock Tomb
+- Bite
+- Pay Day
+- Leer
+
+=================
+
+
+------ Leader Tumblrita (id: 0x20) ------
+
+Level cap : 20
+
+Fishnism (M) @ None
+Ability: Rivalry
+Level: 17
+EVs: 40 HP/40 Atk/40 Def/40 SpA/40 SpD/40 Spe
+IVs: 20 HP/20 Atk/20 Def/20 SpA/20 SpD/20 Spe
+Stats: 52/28/35/25/33/39
+Type: Water/Psychic
+Rash Nature
+- Water Pulse
+- Trigger
+- Ice Beam
+- Bite
+
+Praeteur (M) @ None
+Ability: Intimidate
+Level: 17
+EVs: 40 HP/40 Atk/40 Def/40 SpA/40 SpD/40 Spe
+IVs: 20 HP/20 Atk/20 Def/20 SpA/20 SpD/20 Spe
+Stats: 42/30/33/25/37/14
+Type: Water
+Brave Nature
+- Ice Beam
+- Water Pulse
+- Aqua Jet
+- Hex
+
+Caroline (M) @ Bible
+Ability: Super Luck
+Level: 18
+EVs: 40 HP/40 Atk/40 Def/40 SpA/40 SpD/40 Spe
+IVs: 20 HP/20 Atk/20 Def/20 SpA/20 SpD/20 Spe
+Stats: 56/42/33/39/35/46
+Type: Ground/Flying
+Adamant Nature
+- Featherdance
+- Peck
+- Leer
+- Pursuit
+
+Sjwhale (M) @ Sitrus Berry
+Ability: Synchronize
+Level: 20
+EVs: 40 HP/8 Def/8 SpA/12 Spe
+IVs: 22 HP/22 Atk/22 Def/22 SpA/22 SpD/22 Spe
+Stats: 82/31/51/29/49/46
+Type: Water/Psychic
+Bold Nature
+- Water Pulse
+- Trigger
+- Ice Beam
+- Bite
+
+=================
+
+
+------ Leader Guy (id: 0x3f) ------
+
+Level cap : 28
+
+Anonymouse (M) @ Eject Button
+Ability: Electrosurge
+Level: 25
+EVs: 24 HP/24 Atk/24 Def/24 SpA/24 SpD/24 Spe
+IVs: 18 HP/18 Atk/18 Def/18 SpA/18 SpD/18 Spe
+Stats: 74/49/44/49/39/59
+Type: Dark/Electric
+Naive Nature
+- Shock Wave
+- Night Slash
+- Nuzzle
+- Fake Out
+
+Pikotton (M) @ Light Ball
+Ability: Sweet Veil
+Level: 23
+EVs: 64 HP/24 Atk/24 Def/72 SpA/24 SpD/24 Spe
+IVs: 18 HP/18 Atk/18 Def/18 SpA/18 SpD/18 Spe
+Stats: 66/25/49/59/45/45
+Type: Electric/Fairy
+Modest Nature
+- Nuzzle
+- Shock Wave
+- Drain Kiss
+- Quick Attack
+
+Ribbizap (M) @ None
+Ability: Dry Skin
+Level: 26
+EVs: 48 HP/64 SpA/64 Spe
+IVs: 24 HP/24 Atk/24 Def/24 SpA/24 SpD/24 Spe
+Stats: 79/37/40/73/44/74
+Type: Electric
+Naive Nature
+- Shock Wave
+- Ice Beam
+- Mirror Shot
+- Metal Sound
+
+Mooshock (M) @ Sitrus Berry
+Ability: Sap Sipper
+Level: 28
+EVs: 128 HP/32 Def/88 SpA/8 SpD/32 Spe
+IVs: 24 HP/24 Atk/24 Def/24 SpA/24 SpD/24 Spe
+Stats: 120/65/58/80/62/30
+Type: Electric
+Modest Nature
+- Shock Wave
+- Flame Charge
+- Stomp
+- Thunder Wave
+
+=================
+
+
+------ Leader Snoop (id: 0x8d) ------
+
+Level cap : 38
+
+Vandash (M) @ Flame Orb
+Ability: Guts
+Level: 35
+EVs: 40 HP/88 Atk/8 Def/8 SpD/128 Spe
+IVs: 26 HP/26 Atk/26 Def/26 SpA/26 SpD/26 Spe
+Stats: 106/88/53/56/53/100
+Type: Dark/Grass
+Jolly Nature
+- Fake Out
+- Seed Bomb
+- Crunch
+- Facade
+
+Ignut (M) @ Eviolite
+Ability: Flame Body
+Level: 35
+EVs: 144 HP/144 Def/144 SpA/128 SpD
+IVs: 16 HP/16 Atk/16 Def/16 SpA/16 SpD/16 Spe
+Stats: 112/53/86/82/60/73
+Type: Fire
+Bold Nature
+- Lava Plume
+- Giga Drain
+- Hyper Voice
+- Synthesis
+
+Marionettl (M) @ None
+Ability: Rough Skin
+Level: 36
+EVs: 152 HP/152 Atk/48 Def/8 SpD
+IVs: 19 HP/19 Atk/19 Def/19 SpA/19 SpD/19 Spe
+Stats: 124/118/66/58/62/91
+Type: Grass/Water
+Adamant Nature
+- Needle Arm
+- Dive
+- Leech Life
+- Crunch
+
+Anaconduke (M) @ Coba Berry
+Ability: Shed Skin
+Level: 37
+EVs: 24 HP/164 Atk/24 Def/8 SpD/164 Spe
+IVs: 21 HP/21 Atk/21 Def/21 SpA/21 SpD/21 Spe
+Stats: 138/110/82/24/50/111
+Type: Grass/Fighting
+Jolly Nature
+- Bullet Seed
+- Force Palm
+- Crunch
+- Glare
+
+Marleyzard (M) @ White Herb
+Ability: White Smoke
+Level: 38
+EVs: 168 HP/32 Def/168 SpA/32 SpD
+IVs: 28 HP/28 Atk/28 Def/28 SpA/28 SpD/28 Spe
+Stats: 173/54/102/117/102/38
+Type: Grass/Fire
+Modest Nature
+- Dragon Pulse
+- Giga Drain
+- Flame Burst
+- Toke
+
+=================
+
+
+------ Leader Freddie (id: 0xb4) ------
+
+Level cap : 45
+
+Ayylamo (M) @ Light Clay
+Ability: Synchronize
+Level: 40
+EVs: 6 HP/252 SpA/252 Spe
+IVs: 30 HP/30 Atk/30 Def/30 SpA/30 SpD/30 Spe
+Stats: 118/51/69/114/89/114
+Type: Psychic
+Calm Nature
+- Psychic
+- Light Screen
+- Reflect
+- Signal Beam
+
+Wifemin (M) @ TwistedSpoon
+Ability: Cute Charm
+Level: 42
+EVs: 252 HP/6 Def/252 SpA
+IVs: 30 HP/30 Atk/30 Def/30 SpA/30 SpD/30 Spe
+Stats: 183/61/110/130/114/59
+Type: Psychic
+Modest Nature
+- Psychic
+- Aura Sphere
+- Shadow Ball
+- Calm Mind
+
+Lossolith (M) @ None
+Ability: Levitate
+Level: 43
+EVs: 252 HP/128 Def/6 SpA/128 SpD
+IVs: 30 HP/30 Atk/30 Def/30 SpA/30 SpD/30 Spe
+Stats: 135/62/223/69/152/43
+Type: Steel/Psychic
+Bold Nature
+- Psychic
+- Protect
+- Wish
+- Flash Cannon
+
+Geigh (M) @ None
+Ability: Oblivious
+Level: 44
+EVs: 6 HP/252 SpA/252 Spe
+IVs: 30 HP/30 Atk/30 Def/30 SpA/30 SpD/30 Spe
+Stats: 124/79/79/133/84/156
+Type: Fairy/Flying
+Timid Nature
+- Dazzle Gleam
+- Air Cutter
+- Psychic
+- Gay Agenda
+
+Tripsius (M) @ Life Orb
+Ability: Analytic
+Level: 45
+EVs: 252 HP/6 Def/252 SpA
+IVs: 30 HP/30 Atk/30 Def/30 SpA/30 SpD/30 Spe
+Stats: 176/88/108/138/90/118
+Type: Psychic/Electric
+Modest Nature
+- Calm Mind
+- Thunderbolt
+- Psychic
+- Shadow Ball
+
+=================
+
+
+------ Leader Kanye (id: 0xf3) ------
+
+Level cap : 54
+
+Hazmate (M) @ Leftovers
+Ability: Overcoat
+Level: 50
+EVs: 252 HP/252 Atk/6 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 202/189/110/67/90/91
+Type: Poison/Fighting
+Adamant Nature
+- Poison Jab
+- Drain Punch
+- Bulk Up
+- Toxic
+
+Toxiraptor (M) @ None
+Ability: Poison Point
+Level: 50
+EVs: 6 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 141/165/85/110/70/194
+Type: Rock/Poison
+Jolly Nature
+- Cross Poison
+- Stone Edge
+- Crunch
+- Pin Missile
+
+Crystaking (M) @ Rocky Helmet
+Ability: Rough Skin
+Level: 51
+EVs: 252 HP/252 Atk/6 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 200/192/119/87/107/102
+Type: Ice/Poison
+Adamant Nature
+- Poison Jab
+- Avalanche
+- Drill Run
+- Spiky Shield
+
+Cacademon (M) @ None
+Ability: Stench
+Level: 52
+EVs: 252 HP/252 SpA/6 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 266/113/103/173/103/52
+Type: Ground/Poison
+Modest Nature
+- Earth Power
+- Sludge Bomb
+- Toxic
+- Flamethrower
+
+Smoxilon (M) @ None
+Ability: Poison Point
+Level: 52
+EVs: 12 HP/244 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 160/141/94/91/97/191
+Type: Poison/Flying
+Jolly Nature
+- Spore
+- Brave Bird
+- Poison Jab
+- Stealth Rock
+
+Ebolable (M) @ Black Sludge
+Ability: Liquid Ooze
+Level: 54
+EVs: 6 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 156/72/97/185/118/173
+Type: Poison/Dark
+Timid Nature
+- Toxic
+- Venoshock
+- Dark Pulse
+- Flamethrower
+
+=================
+
+
+------ Leader Polk (id: 0x10c) ------
+
+Level cap : 58
+
+Kuklan (M) @ None
+Ability: Levitate
+Level: 54
+EVs: 6 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 146/77/86/179/145/185
+Type: Fire
+Timid Nature
+- Nasty Plot
+- Flamethrower
+- Thunderbolt
+- Shadow Ball
+
+Pyralink (M) @ White Herb
+Ability: Magma Armor
+Level: 56
+EVs: 252 HP/6 Atk/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 230/147/115/193/82/72
+Type: Dragon/Fire
+Quiet Nature
+- Overheat
+- Dragon Pulse
+- Thunderbolt
+- Roost
+
+Urswine (M) @ Bacon Strip
+Ability: Thick Fat
+Level: 55
+EVs: 252 HP/252 Atk/6 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 259/170/110/79/88/77
+Type: Normal/Fire
+Adamant Nature
+- Fire Lash
+- Double-Edge
+- Crunch
+- Bulk Up
+
+Florigrace (M) @ Sitrus Berry
+Ability: Effect Spore
+Level: 54
+EVs: 252 HP/6 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 228/67/97/167/118/113
+Type: Water/Grass
+Modest Nature
+- Scald
+- Giga Drain
+- Pollen Puff
+- Sleazy Spore
+
+Hyletrack (M) @ Air Balloon
+Ability: Speed Boost
+Level: 56
+EVs: 6 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 173/173/123/90/100/197
+Type: Steel/Fire
+Adamant Nature
+- Heat Crash
+- Iron Head
+- Superpower
+- Sharpen
+
+Finasoven (M) @ Leftovers
+Ability: Solid Rock
+Level: 58
+EVs: 252 HP/6 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 209/98/174/224/144/63
+Type: Fire/Rock
+Modest Nature
+- Fire Blast
+- Power Gem
+- Earth Power
+- Morning Sun
+
+=================
+
+
+------ Leader Darude (id: 0x145) ------
+
+Level cap : 62
+
+Motherfuck (M) @ Yache Berry
+Ability: Shadow Tag
+Level: 61
+EVs: 252 HP/6 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 195/140/164/70/145/189
+Type: Ground/Flying
+Jolly Nature
+- Spore
+- Aerial Ace
+- Perish Song
+- Earthquake
+
+Vaultevour (M) @ Chople Berry
+Ability: Strong Jaw
+Level: 60
+EVs: 252 HP/252 Atk/6 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 222/251/150/74/155/71
+Type: Steel/Dark
+Adamant Nature
+- Iron Head
+- Crunch
+- Ice Fang
+- Earthquake
+
+Somboludo (M) @ Passho Berry
+Ability: Sniper
+Level: 60
+EVs: 6 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 221/218/113/90/107/181
+Type: Ground/Steel
+Adamant Nature
+- Earthquake
+- Meteor Mash
+- Waterfall
+- Rock Slide
+
+Galavire (M) @ Petaya Berry
+Ability: Levitate
+Level: 61
+EVs: 6 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 175/87/139/220/133/209
+Type: Steel/Electric
+Timid Nature
+- Thunderbolt
+- Flash Cannon
+- Giga Drain
+- Signal Beam
+
+Galaviste (M) @ Liechi Berry
+Ability: Intimidate
+Level: 61
+EVs: 252 HP/252 Atk/6 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 262/242/140/87/133/103
+Type: Steel/Fighting
+Adamant Nature
+- Substitute
+- Focus Punch
+- Meteor Mash
+- Earthquake
+
+Potarded (M) @ Figy Berry
+Ability: Oblivious
+Level: 62
+EVs: 252 HP/252 Atk/6 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 266/267/168/110/122/111
+Type: Ground
+Adamant Nature
+- Earthquake
+- Seed Bomb
+- Zen Headbutt
+- Softboiled
+
+=================
+
+
+------ Leader Brock (id: 0x15a) ------
+
+Level cap : 62
+
+Shurismash (M) @ White Herb
+Ability: Sturdy
+Level: 60
+EVs: 252 Atk/4 Def/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 190/199/156/72/137/153
+Type: Rock/Steel
+Adamant Nature
+- Rock Slide
+- Iron Head
+- Drill Peck
+- Shell Smash
+
+Tricillion (M) @ Flame Orb
+Ability: Guts
+Level: 59
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 254/234/177/41/153/48
+Type: Rock/Steel
+Adamant Nature
+- Stone Edge
+- Iron Head
+- Megahorn
+- Knock Off
+
+Toxiraptor (M) @ Focus Sash
+Ability: Poison Point
+Level: 59
+EVs: 12 HP/244 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 165/192/99/129/82/227
+Type: Rock/Poison
+Jolly Nature
+- Rock Climb
+- Toxiravage
+- Crunch
+- Dragon Claw
+
+Huntabre (M) @ Life Orb
+Ability: Strong Jaw
+Level: 59
+EVs: 4 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 182/199/105/86/101/227
+Type: Rock/Normal
+Jolly Nature
+- Rock Slide
+- Hyper Fang
+- Crunch
+- Ice Fang
+
+Barbarkley (M) @ Liechi Berry
+Ability: Quick Feet
+Level: 60
+EVs: 6 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 204/187/119/79/107/218
+Type: Rock/Fighting
+Jolly Nature
+- Chaos Dunk
+- Close Combat
+- Razor Shell
+- Earthquake
+
+Chompest (M) @ Eviolite
+Ability: Intimidate
+Level: 62
+EVs: 252 HP/252 Atk/6 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 229/205/130/77/111/73
+Type: Rock/Dark
+Adamant Nature
+- Stone Edge
+- Crunch
+- Earthquake
+- Ice Fang
+
+=================
+
+
+------ Gym Leader Duo (id: 0x19a) ------
+
+Level cap : 75
+
+Praestish (M) @ Leftovers
+Ability: Intimidate
+Level: 69
+EVs: 252 HP/252 Atk/4 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 239/225/179/148/193/72
+Type: Water
+Brave Nature
+- Spook Out
+- Waterfall
+- Crunch
+- Ice Beam
+
+Florigrace (M) @ Leftovers
+Ability: Effect Spore
+Level: 70
+EVs: 252 HP/4 SpA/252 SpD
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 292/86/124/153/215/145
+Type: Water/Grass
+Calm Nature
+- Sleazy Spore
+- Giga Drain
+- Scald
+- Pollen Puff
+
+Tarditank (M) @ Chesto Berry
+Ability: Friend Guard
+Level: 73
+EVs: 252 HP/252 Def/4 SpD
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 312/37/401/34/320/34
+Type: Bug/Water
+Bold Nature
+- Toxic
+- Scald
+- Rage Powder
+- Rest
+
+Gynuke (M) @ White Herb
+Ability: Aftermath
+Level: 72
+EVs: 4 Atk/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 218/163/108/228/120/251
+Type: Water/Fire
+Mild Nature
+- Steam Erupt
+- V-Create
+- Ice Beam
+- Earth Power
+
+Sjwhale (M) @ Sitrus Berry
+Ability: Synchronize
+Level: 74
+EVs: 4 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 277/170/168/90/175/227
+Type: Water/Psychic
+Jolly Nature
+- Slack Off
+- Liquidation
+- Psychic Fang
+- Belly Drum
+
+Finasoven (M) @ Expert Belt
+Ability: Solid Rock
+Level: 75
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 268/126/224/289/185/80
+Type: Fire/Rock
+Modest Nature
+- Fire Blast
+- Power Gem
+- Earth Power
+- Morning Sun
+
+=================
+
+
+------ Gym Leader Duo (id: 0x19b) ------
+
+Level cap : 74
+
+Hazmate (M) @ Assault Vest
+Ability: Overcoat
+Level: 70
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 278/261/153/92/124/124
+Type: Poison/Fighting
+Adamant Nature
+- Gunk Shot
+- Drain Punch
+- Earthquake
+- Rock Slide
+
+Lossolith (M) @ Light Clay
+Ability: Levitate
+Level: 70
+EVs: 252 HP/4 Def/252 SpD
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 215/110/307/110/292/61
+Type: Steel/Psychic
+Sassy Nature
+- Reflect
+- Light Screen
+- Heavy Slam
+- Psychic
+
+Cansumor (M) @ Black Sludge
+Ability: Liquid Ooze
+Level: 72
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 344/205/157/108/156/77
+Type: Poison
+Adamant Nature
+- Gunk Shot
+- Crabhammer
+- Leech Life
+- Recover
+
+Illumatrix (M) @ Leftovers
+Ability: Analytic
+Level: 72
+EVs: 252 HP/252 Def/4 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 282/108/229/190/171/128
+Type: Psychic/Flying
+Bold Nature
+- Calm Mind
+- Psychic
+- Aeroblast
+- Roost
+
+Ebolable (M) @ Expert Belt
+Ability: Liquid Ooze
+Level: 74
+EVs: 4 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 211/98/131/252/161/236
+Type: Poison/Dark
+Timid Nature
+- Nasty Plot
+- Daily Dose
+- Dark Pulse
+- Flamethrower
+
+Tripsius (M) @ Life Orb
+Ability: Competitive
+Level: 74
+EVs: 4 Def/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 237/143/175/204/146/261
+Type: Psychic/Electric
+Timid Nature
+- Thunderbolt
+- Psychic
+- Ice Beam
+- Shadow Ball
+
+=================
+
+
+------ Gym Leader Duo (id: 0x19c) ------
+
+Level cap : 74
+
+Anonymouse (M) @ Focus Sash
+Ability: Electrosurge
+Level: 71
+EVs: 252 Atk/4 Def/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 196/179/121/120/120/212
+Type: Dark/Electric
+Jolly Nature
+- Fake Out
+- Ow The Edge
+- Volt Tackle
+- Stone Edge
+
+Galavire (M) @ Assault Vest
+Ability: Levitate
+Level: 72
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 250/101/164/284/156/178
+Type: Steel/Electric
+Modest Nature
+- Flash Cannon
+- Thunderbolt
+- Giga Drain
+- Sludge Bomb
+
+Viristal (M) @ Life Orb
+Ability: Prism Armor
+Level: 73
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 297/90/137/299/173/86
+Type: Rock/Electric
+Modest Nature
+- Power Gem
+- Thunderbolt
+- Flamethrower
+- Flash Cannon
+
+Feferun (M) @ Expert Belt
+Ability: Flash Fire
+Level: 72
+EVs: 4 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 220/121/171/252/142/190
+Type: Bug/Ground
+Timid Nature
+- Earth Power
+- Bug Buzz
+- Thunderbolt
+- Flamethrower
+
+Mooshock (M) @ Leftovers
+Ability: Sap Sipper
+Level: 74
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 331/260/147/157/161/72
+Type: Electric
+Adamant Nature
+- Volt Tackle
+- Flare Blitz
+- Megahorn
+- Milk Drink
+
+Potarded (M) @ Sitrus Berry
+Ability: Unaware
+Level: 74
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 316/317/200/131/144/131
+Type: Ground
+Adamant Nature
+- Shitpost
+- Power Whip
+- Head Smash
+- Softboiled
+
+=================
+
+
+------ Gym Leader Duo (id: 0x19d) ------
+
+Level cap : 75
+
+Barbarkley (M) @ Salac Berry
+Ability: Quick Feet
+Level: 74
+EVs: 4 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 249/229/146/96/131/268
+Type: Rock/Fighting
+Jolly Nature
+- Swords Dance
+- Chaos Dunk
+- Close Combat
+- Razor Shell
+
+Marionettl (M) @ Rocky Helmet
+Ability: Rough Skin
+Level: 70
+EVs: 12 HP/244 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 215/230/124/117/124/246
+Type: Grass/Water
+Jolly Nature
+- Coil
+- Power Whip
+- Crabhammer
+- Leech Life
+
+Apartmant (M) @ Leftovers
+Ability: More Room
+Level: 72
+EVs: 252 HP/252 Atk/4 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 279/254/200/100/113/115
+Type: Bug/Rock
+Brave Nature
+- Trick Room
+- Rock Slide
+- Attack Order
+- Ice Fang
+
+Fondupple (M) @ Leftovers
+Ability: Intimidate
+Level: 73
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 281/265/159/90/188/102
+Type: Grass/Fairy
+Adamant Nature
+- Leaf Blade
+- Play Rough
+- Knock Off
+- Milk Drink
+
+Vaultevour (M) @ Dark Gem
+Ability: Jewelry
+Level: 74
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 271/309/184/90/190/87
+Type: Steel/Dark
+Adamant Nature
+- Iron Head
+- Crunch
+- Ice Fang
+- Rock Slide
+
+Marleyzard (M) @ White Herb
+Ability: Turboblaze
+Level: 75
+EVs: 4 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 304/106/193/225/193/132
+Type: Grass/Fire
+Timid Nature
+- Toke
+- Flamethrower
+- Giga Drain
+- Dragon Pulse
+
+=================
+
+
+------ Leader Bavi (id: 0x1ca) ------
+
+Level cap : 83
+
+Upchucken (M) @ Heat Rock
+Ability: Drought
+Level: 80
+EVs: 4 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 254/177/159/243/159/269
+Type: Normal/Flying
+Timid Nature
+- Hyper Voice
+- Aeroblast
+- Flamethrower
+- Roost
+
+Nutzboltz (M) @ Black Sludge
+Ability: Soundproof
+Level: 79
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 329/126/156/234/179/155
+Type: Poison/Flying
+Modest Nature
+- Sludge Bomb
+- Heat Wave
+- Oblivionwing
+- Roost
+
+Avianjoin (M) @ White Herb
+Ability: Heatproof
+Level: 80
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 325/325/142/141/141/149
+Type: Steel/Flying
+Adamant Nature
+- Heavy Slam
+- Brave Bird
+- Flare Blitz
+- Superpower
+
+Thundacock (M) @ Sharp Beak
+Ability: Adaptability
+Level: 80
+EVs: 252 HP/4 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 277/214/157/141/141/290
+Type: Electric/Flying
+Jolly Nature
+- Volt Tackle
+- Brave Bird
+- Close Combat
+- Swords Dance
+
+Falcaptain (M) @ Expert Belt
+Ability: Iron Fist
+Level: 81
+EVs: 252 Atk/4 Def/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 213/293/120/150/111/291
+Type: Fighting/Flying
+Adamant Nature
+- Falcon Punch
+- Hi Jump Kick
+- Flare Blitz
+- Ice Punch
+
+FaZeagle (M) @ Focus Sash
+Ability: Sniper
+Level: 83
+EVs: 4 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 244/162/130/224/130/291
+Type: Fire/Flying
+Timid Nature
+- Toke
+- Searing Shot
+- Aeroblast
+- Solarbeam
+
+=================
+
+
+------ Leader Coldsteel (id: 0x1f0) ------
+
+Level cap : 83
+
+Dowster (M) @ Expert Belt
+Ability: Shadow Tag
+Level: 78
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 286/201/107/316/169/138
+Type: Ghost/Psychic
+Modest Nature
+- Spook Out
+- Shadow Ball
+- Psychic
+- Moonblast
+
+Glassannon (M) @ Focus Sash
+Ability: Speed Boost
+Level: 79
+EVs: 4 Def/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 184/224/93/327/92/292
+Type: Ice/Steel
+Modest Nature
+- Ice Beam
+- Flash Cannon
+- Aura Sphere
+- Thunderbolt
+
+Premantom (M) @ Leftovers
+Ability: Pressure
+Level: 80
+EVs: 252 HP/252 Def/4 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 293/134/281/166/221/165
+Type: Dark/Ghost
+Bold Nature
+- Recover
+- Dark Pulse
+- Calm Mind
+- Will-O-Wisp
+
+Warudio (M) @ Assault Vest
+Ability: Regenerator
+Level: 80
+EVs: 12 HP/244 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 245/246/157/148/157/299
+Type: Dark/Fighting
+Jolly Nature
+- Crunch
+- Close Combat
+- Earthquake
+- U-turn
+
+Goryannus (M) @ Life Orb
+Ability: Sheer Force
+Level: 81
+EVs: 252 Atk/4 Def/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 261/291/168/77/167/276
+Type: Ground/Ghost
+Jolly Nature
+- Zen Headbutt
+- Bonemerang
+- Shadow Bone
+- Icicle Crash
+
+Grimdak (M) @ BlackGlasses
+Ability: Dark Aura
+Level: 83
+EVs: 252 Atk/4 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 234/273/131/214/146/255
+Type: Dark/Steel
+Hasty Nature
+- Ow The Edge
+- 1000 Folds
+- Aura Sphere
+- Dark Void
+
+=================
+
+
+------ Leader Broly (id: 0x26a) ------
+
+Level cap : 81
+
+Mantrake (M) @ Expert Belt
+Ability: Tinted Lens
+Level: 80
+EVs: 4 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 291/304/165/98/157/220
+Type: Bug/Dragon
+Jolly Nature
+- Megahorn
+- Outrage
+- Horn Leech
+- Dragon Dance
+
+Draconius (M) @ Leftovers
+Ability: Huge Power
+Level: 80
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 373/202/190/184/173/125
+Type: Normal/Dragon
+Adamant Nature
+- Body Slam
+- Outrage
+- Earthquake
+- Roost
+
+Frutagon (M) @ Liechi Berry
+Ability: Tough Claws
+Level: 81
+EVs: 4 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 246/302/159/172/159/226
+Type: Grass/Dragon
+Adamant Nature
+- Draco Hammer
+- Leaf Blade
+- Low Kick
+- Dragon Dance
+
+=================
+
+
+------ Leader Darkholme (id: 0x277) ------
+
+Level cap : 83
+
+Fabkube (M) @ Sitrus Berry
+Ability: Levitate
+Level: 79
+EVs: 4 HP/252 SpA/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 248/82/154/276/181/269
+Type: Ice/Fairy
+Timid Nature
+- Ice Beam
+- Moonblast
+- Recover
+- Hydro Pump
+
+Flameboyan (M) @ Big Faggot
+Ability: Flame Body
+Level: 82
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 308/118/159/255/223/71
+Type: Fire/Fairy
+Modest Nature
+- Fiery Dance
+- Moonblast
+- Giga Drain
+- Moonlight
+
+Dragking (M) @ Assault Vest
+Ability: Pozzed
+Level: 80
+EVs: 252 Atk/4 SpD/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 218/240/149/141/142/281
+Type: Fairy
+Jolly Nature
+- Pixie Pummel
+- Blaze Kick
+- Earthquake
+- Hi Jump Kick
+
+Traumobra (M) @ Black Sludge
+Ability: Prankster
+Level: 80
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 278/128/176/265/159/207
+Type: Poison/Fairy
+Modest Nature
+- Sludge Wave
+- Moonblast
+- Moonlight
+- Lovely Kiss
+
+Fondupple (M) @ Wiki Berry
+Ability: Sweet Veil
+Level: 79
+EVs: 252 HP/252 Atk/4 SpD
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 303/286/171/97/204/110
+Type: Grass/Fairy
+Adamant Nature
+- Power Whip
+- Pixie Pummel
+- Knock Off
+- Milk Drink
+
+Shiriman (M) @ Leftovers
+Ability: Intimidate
+Level: 83
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 351/158/175/247/171/136
+Type: Psychic/Fairy
+Modest Nature
+- Psychic
+- Moonblast
+- Flamethrower
+- Softboiled
+
+=================
+
+
+------ Leader Nomel & Bro (id: 0x295) ------
+
+Level cap : 85
+
+Pyralink (M) @ Sitrus Berry
+Ability: Intimidate
+Level: 80
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 325/186/163/273/116/113
+Type: Dragon/Fire
+Modest Nature
+- Heat Wave
+- Dragon Pulse
+- Clear Smog
+- Roost
+
+Birdhouse (M) @ Light Clay
+Ability: Wooden Guard
+Level: 80
+EVs: 252 HP/4 Atk/252 SpD
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 277/153/197/98/272/141
+Type: Normal/Flying
+Careful Nature
+- Return
+- Drill Peck
+- Reflect
+- Light Screen
+
+Sprucifix (M) @ Brightpowder
+Ability: Wonder Guard
+Level: 83
+EVs: 252 HP/4 Atk/252 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 318/210/313/100/155/113
+Type: Grass/Ghost
+Impish Nature
+- Follow Me
+- Power Whip
+- Shadow Claw
+- Recover
+
+Honrade (M) @ Razor Claw
+Ability: No Guard
+Level: 82
+EVs: 252 Atk/4 Def/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 248/295/146/93/153/251
+Type: Fairy/Fighting
+Jolly Nature
+- Swords Dance
+- Cross Chop
+- Pixie Pummel
+- Stone Edge
+
+Socckat (M) @ Life Orb
+Ability: Scrappy
+Level: 81
+EVs: 252 Atk/4 Def/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 245/251/152/107/135/293
+Type: Normal/Fighting
+Jolly Nature
+- Fake Out
+- Double-Edge
+- Hi Jump Kick
+- Volt Tackle
+
+Baloofang (M) @ Leftovers
+Ability: Unaware
+Level: 85
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 344/121/176/242/209/140
+Type: Ghost
+Modest Nature
+- Spook Out
+- Geist Beam
+- Hurricane
+- Roost
+
+=================
+
+
+------ Karma Leader Vyglass (id: 0x2a5) ------
+
+Level cap : 80
+
+Clovenix (M) @ Expert Belt
+Ability: Regenerator
+Level: 80
+EVs: 48 HP/48 Atk/48 Def/48 SpA/48 SpD
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 316/262/199/215/199/269
+Type: Grass/Fire
+Adamant Nature
+- Futaba Break
+- Sacred Fire
+- Land's Wrath
+- Regenerate
+
+Manatank (M) @ Chople Berry
+Ability: Pure Power
+Level: 80
+EVs: 252 HP/252 Atk/4 Def
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 341/193/222/148/233/109
+Type: Water/Ice
+Adamant Nature
+- Icicle Crash
+- Liquidation
+- Earthquake
+- Milk Drink
+
+Cannonance (M) @ Assault Vest
+Ability: Megalauncher
+Level: 80
+EVs: 252 HP/4 Def/252 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 317/162/214/343/197/101
+Type: Dragon/Steel
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Dark Pulse
+- Aura Sphere
+
+Slugfugg (M) @ Black Sludge
+Ability: Sap Sipper
+Level: 80
+EVs: 252 HP/120 Def/136 SpD
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 333/189/269/149/229/83
+Type: Water/Poison
+Sassy Nature
+- Recover
+- Scald
+- Toxic
+- Haze
+
+Unjoy (M) @ Leftovers
+Ability: Cursed Body
+Level: 80
+EVs: 252 HP/252 Def/4 SpA
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 573/40/105/150/245/117
+Type: Ghost
+Bold Nature
+- Softboiled
+- Shadow Ball
+- Calm Mind
+- Foul Play
+
+Kuuroba (M) @ Lum Berry
+Ability: Huge Power
+Level: 80
+EVs: 4 HP/252 Atk/252 Spe
+IVs: 31 HP/31 Atk/31 Def/31 SpA/31 SpD/31 Spe
+Stats: 259/248/173/141/173/220
+Type: Grass/Fighting
+Jolly Nature
+- Futaba Break
+- Close Combat
+- Meteor Mash
+- Rock Slide
+
+=================
+
+
