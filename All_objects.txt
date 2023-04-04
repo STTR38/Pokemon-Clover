@@ -103,6 +103,11 @@ TM/HM:
 ---------- Bateman Channel ---------
 
 Find:
+. HP Up
+. Big Pearl
+. Hidden: ['12', '17'], Max Ether
+
+Steal:
 . Eviolite: Tuber Liz, Ricosheep | F | Lv X
 . Eviolite: Tuber Liz, Kekroach | F | Lv X
 . Eviolite: Tuber Liz, Praunch | F | Lv X
@@ -110,9 +115,6 @@ Find:
 . Eviolite: Channeler Chanel, Singlets | Lv 65
 . Eviolite: Channeler Chanel, Flowre | F | Lv X-3
 . Eviolite: Channeler Chanel, Dubus | Lv 66
-. HP Up
-. Big Pearl
-. Hidden: ['12', '17'], Max Ether
 
 
 ---------- Battle Channel ---------
@@ -130,13 +132,15 @@ TM/HM:
 Find:
 . Rocky Helmet: Karma Sub HQ's exit
 . Lax Incense: inebriated man
-. Nugget: Merchant Rosenberg, Chompest | M | Lv 40
-. Nugget: Merchant Abraham, Chantruth | M | Lv 44
 . Rocky Helmet
 . Potion
 . Fresh Water
 . Repeat Ball
 . Revive
+
+Steal:
+. Nugget: Merchant Rosenberg, Chompest | M | Lv 40
+. Nugget: Merchant Abraham, Chantruth | M | Lv 44
 
 TM/HM:
 . TM45: Attract, little girl in the western house
@@ -213,18 +217,20 @@ TM/HM:
 Find:
 . Razor Claw: route master
 . Scope Lens: route master
-. Eviolite: Fisherman Benny, Randomix | M | Lv X
-. Eviolite: Fucking Communist, Missletoe | M | Lv X-3
-. Eviolite: Bird Keeper Pixy, Pixila | F | Lv X+2
-. Nugget: Merchant Moishe, Vaultevour | M | Lv X-1
-. Toxic Orb: Bouncer Token, Ebolable | M | Lv X-4
-. Poké Ball: Bouncer Token, Vandash | M | Lv X
 . Big Mushroom
 . PP Up
 . Hyper Potion
 . Nugget
 . Rare Candy
 . Hidden: ['7', '28'], Star Piece
+
+Steal:
+. Eviolite: Fisherman Benny, Randomix | M | Lv X
+. Eviolite: Fucking Communist, Missletoe | M | Lv X-3
+. Eviolite: Bird Keeper Pixy, Pixila | F | Lv X+2
+. Nugget: Merchant Moishe, Vaultevour | M | Lv X-1
+. Toxic Orb: Bouncer Token, Ebolable | M | Lv X-4
+. Poké Ball: Bouncer Token, Vandash | M | Lv X
 
 
 ---------- Cave of Sjwhale ---------
@@ -276,8 +282,6 @@ Trades:
 ---------- Clemente Range ---------
 
 Find:
-. Chople Berry: Private Cliffe, Cannonance | M | Lv X
-. Eviolite: Private Cliffe, Triggedon | M | Lv X-5
 . Monster Ball
 . Max Ether
 . Focus Sash
@@ -286,6 +290,10 @@ Find:
 . Rare Candy
 . Zinc
 . Hidden: ['15', '74'], Bottlecap
+
+Steal:
+. Chople Berry: Private Cliffe, Cannonance | M | Lv X
+. Eviolite: Private Cliffe, Triggedon | M | Lv X-5
 
 
 ---------- Crashed UFO ---------
@@ -303,10 +311,12 @@ TM/HM:
 ---------- Cratered Point ---------
 
 Find:
-. Lucky Egg: Lifter Gaston, Chancer | F | Lv X-4
 . Barbed Ball
 . Max Repel
 . Hidden: ['20', '5'], Shuca Berry
+
+Steal:
+. Lucky Egg: Lifter Gaston, Chancer | F | Lv X-4
 
 
 ---------- Crystalline Cavern ---------
@@ -348,12 +358,6 @@ Find:
 
 Find:
 . Expert Belt: route master
-. Eviolite: Super Nerd Bobby, Tankube | Lv X
-. Soft Sand: Smogoon Dastan, Knokedge | M | Lv X-3
-. Eviolite: Smogoon Dastan, Egylamp | M | Lv X-1
-. Eviolite: Black Belt Traynor, Bruhkid | M | Lv X-5
-. Eviolite: Black Belt Traynor, Bruhkid | M | Lv X-4
-. Soft Sand: Black Belt Traynor, Ubruh | M | Lv X-3
 . Smooth Rock
 . Rare Candy
 . Pearl
@@ -361,6 +365,14 @@ Find:
 . Hidden: ['29', '19'], Revive
 . Hidden: ['77', '29'], Yellow Shard
 . Hidden: ['123', '22'], Stardust
+
+Steal:
+. Eviolite: Super Nerd Bobby, Tankube | Lv X
+. Soft Sand: Smogoon Dastan, Knokedge | M | Lv X-3
+. Eviolite: Smogoon Dastan, Egylamp | M | Lv X-1
+. Eviolite: Black Belt Traynor, Bruhkid | M | Lv X-5
+. Eviolite: Black Belt Traynor, Bruhkid | M | Lv X-4
+. Soft Sand: Black Belt Traynor, Ubruh | M | Lv X-3
 
 
 ---------- Dubs Island ---------
@@ -373,7 +385,7 @@ Find:
 
 ---------- Dubs Island Gym ---------
 
-Find:
+Steal:
 . Eviolite: Bird Keeper Altar, Ballankey | M | Lv X+2
 
 
@@ -400,7 +412,7 @@ TM/HM:
 
 ---------- Fochun League ---------
 
-Find:
+Steal:
 . Iron Ball: Merchant Feldstein, Phantash | Lv 68
 . Dark Gem: Merchant Feldstein, Chompest | Lv 69
 . Choice Scarf: Merchant Feldstein, Vandash | Lv 69
@@ -489,10 +501,12 @@ Trades:
 ---------- Indian Cave ---------
 
 Find:
+. HP Up
+
+Steal:
 . Light Clay: Neo Karma Grunt, Chanolour | F | Lv X-3
 . Leftovers: Neo Karma Grunt, Upbeddit | M | Lv X-1
 . Sharp Beak: Neo Karma Grunt, Thundacock | M | Lv X-2
-. HP Up
 
 
 ---------- Innawoods Town ---------
@@ -534,10 +548,12 @@ Find:
 
 Find:
 . Mental Herb: post-game
-. Eviolite: Bouncer Banks, Rolango | F | Lv X-2
 . Mental Herb
 . Hidden: ['3', '18'], Tinymushroom
 . Hidden: ['63', '18'], Yellow Shard
+
+Steal:
+. Eviolite: Bouncer Banks, Rolango | F | Lv X-2
 
 
 ---------- Memes Inc. ---------
@@ -574,12 +590,6 @@ Find:
 . Power Herb: B1F
 . Safety Goggles: 2F
 . Rocky Helmet: Summit
-. Sitrus Berry: Neo Karma Grunt, Bulbapedo | M | Lv X-3
-. Quick Claw: Neo Karma Grunt, Upbeddit | F | Lv X-2
-. Custap Berry: Neo Karma Grunt, Senketula | F | Lv X-2
-. Custap Berry: Neo Karma Grunt, Jerkle | Lv X-3
-. Colbur Berry: Neo Karma Grunt, Upbeddit | F | Lv X-3
-. Air Balloon: Neo Karma Grunt, Cansumor | M | Lv X-3
 . Dream Ball
 . Full Restore
 . Terrain Ext.
@@ -608,6 +618,14 @@ Find:
 . Hidden: ['36', '13'], Green Shard
 . Hidden: ['23', '16'], Nugget
 . Hidden: ['27', '36'], Sun Stone
+
+Steal:
+. Sitrus Berry: Neo Karma Grunt, Bulbapedo | M | Lv X-3
+. Quick Claw: Neo Karma Grunt, Upbeddit | F | Lv X-2
+. Custap Berry: Neo Karma Grunt, Senketula | F | Lv X-2
+. Custap Berry: Neo Karma Grunt, Jerkle | Lv X-3
+. Colbur Berry: Neo Karma Grunt, Upbeddit | F | Lv X-3
+. Air Balloon: Neo Karma Grunt, Cansumor | M | Lv X-3
 
 TM/HM:
 . HM08: Rock Climb, Nomel
@@ -717,7 +735,7 @@ Trades:
 
 ---------- Paia University ---------
 
-Find:
+Steal:
 . Eviolite: Neo Karma Grunt, Nutjobber | M | Lv X-1
 . Eviolite: Neo Karma Grunt, Upbote | F | Lv X-3
 . Eviolite: Neo Karma Grunt, Mehndior | F | Lv X
@@ -735,7 +753,7 @@ Find:
 
 ---------- Pattern Kush ---------
 
-Find:
+Steal:
 . Eviolite: Meth Cookers Hart&Bryan, Tankube | Lv X
 . Weed: Stoner MK, Illumatrix | M | Lv X-1
 . Eviolite: Stoner MK, Mariguana | M | Lv X-1
@@ -785,11 +803,6 @@ Find:
 ---------- Rock Tunnel ---------
 
 Find:
-. Choice Band: Fucking Dick, Motherfuck | M | Lv 31
-. Berry Juice: Camper Bear, Urswine | M | Lv 32
-. Liechi Berry: Black Belt Ryu, Chasumo | M | Lv 30
-. Never-Melt Ice: Meth Cookers Walt & Jess, Whizzard | F | Lv 32
-. Miracle Seed: Meth Cookers Walt & Jess, Mariguana | F | Lv 32
 . Max Revive
 . Hard Stone
 . Fire Stone
@@ -805,6 +818,13 @@ Find:
 . Hidden: ['46', '21'], Blue Shard
 . Hidden: ['37', '45'], Max Ether
 . Hidden: ['74', '39'], Fresh Water
+
+Steal:
+. Choice Band: Fucking Dick, Motherfuck | M | Lv 31
+. Berry Juice: Camper Bear, Urswine | M | Lv 32
+. Liechi Berry: Black Belt Ryu, Chasumo | M | Lv 30
+. Never-Melt Ice: Meth Cookers Walt & Jess, Whizzard | F | Lv 32
+. Miracle Seed: Meth Cookers Walt & Jess, Mariguana | F | Lv 32
 
 TM/HM:
 . TM31: Brick Break, B1F, old man
@@ -826,7 +846,6 @@ Find:
 ---------- Route 10 ---------
 
 Find:
-. Eviolite: Hiker Blondie, Triggedon | M | Lv 33
 . X Attack
 . TM49
 . X Speed
@@ -839,6 +858,9 @@ Find:
 . Hidden: ['26', '10'], Cheri Berry
 . Hidden: ['68', '19'], Potion
 
+Steal:
+. Eviolite: Hiker Blondie, Triggedon | M | Lv 33
+
 TM/HM:
 . TM49: Snatch, among the fenced off grass, west of the tower
 
@@ -847,7 +869,6 @@ TM/HM:
 
 Find:
 . Iron Ball: route master
-. Silk Scarf: Ace Trainer Draco, Draconius | M | Lv 50
 . Rasta Ball
 . Rare Candy
 . PP Up
@@ -862,6 +883,9 @@ Find:
 . Hidden: ['16', '121'], Green Shard
 . Hidden: ['33', '154'], Revive
 
+Steal:
+. Silk Scarf: Ace Trainer Draco, Draconius | M | Lv 50
+
 TM/HM:
 . TM11: Sunny Day, on the island with the Youngster
 
@@ -870,8 +894,6 @@ TM/HM:
 
 Find:
 . King's Rock
-. Eviolite: Fucking Sniper, Tankube | Lv 50
-. Leftovers: Fucking Sniper, Piguson | M | Lv 43
 . Max Revive
 . Junk Ball
 . TM43
@@ -882,6 +904,10 @@ Find:
 . Hidden: ['31', '22'], Heal Ball
 . Hidden: ['82', '6'], Red Shard
 
+Steal:
+. Eviolite: Fucking Sniper, Tankube | Lv 50
+. Leftovers: Fucking Sniper, Piguson | M | Lv 43
+
 TM/HM:
 . TM43: Secret Power, in the middle of the route, between a big rock and a smashable rock | requires Rock Smash
 
@@ -889,8 +915,6 @@ TM/HM:
 ---------- Route 13 ---------
 
 Find:
-. Chople Berry: Rocker Luca, Galavire | Lv 50
-. Leftovers: Youngster Joey, Motherfuck | M | Lv 42
 . Full Restore
 . TM18
 . Max Repel
@@ -898,6 +922,10 @@ Find:
 . Hidden: ['49', '21'], Revive
 . Hidden: ['29', '20'], Star Piece
 . Hidden: ['6', '18'], Great Ball
+
+Steal:
+. Chople Berry: Rocker Luca, Galavire | Lv 50
+. Leftovers: Youngster Joey, Motherfuck | M | Lv 42
 
 TM/HM:
 . TM18: Rain Dance, south
@@ -907,11 +935,13 @@ TM/HM:
 
 Find:
 . White Herb
-. Salac Berry: Ace Trainer Helga, Honrade | M | Lv 51
 . White Herb
 . Full Heal
 . Hidden: ['20', '22'], Net Ball
 . Hidden: ['8', '44'], Rawst Berry
+
+Steal:
+. Salac Berry: Ace Trainer Helga, Honrade | M | Lv 51
 
 
 ---------- Route 15 ---------
@@ -946,10 +976,12 @@ TM/HM:
 ---------- Route 17 ---------
 
 Find:
-. Flying Gem: Gamer Jocker, Nonegative | Lv 35
-. Steel Gem: Gamer Jocker, Bukitlee | Lv 34
 . Super Potion
 . Hidden: ['27', '9'], X Attack
+
+Steal:
+. Flying Gem: Gamer Jocker, Nonegative | Lv 35
+. Steel Gem: Gamer Jocker, Bukitlee | Lv 34
 
 
 ---------- Route 18 ---------
@@ -1041,22 +1073,21 @@ Find:
 ---------- Route 27 ---------
 
 Find:
+. Elixir
+. Hidden: ['13', '18'], Soda Pop
+
+Steal:
 . Oran Berry: Youngster Kent, Ribbizap | M | Lv 19
 . Sitrus Berry: Furry Mittens, Cloucat | M | Lv 19
 . Oran Berry: Camper Frank, Krokling | M | Lv 19
 . Sitrus Berry: Camper Frank, Faeriock | M | Lv 20
 . Sitrus Berry: Lifter Greg, Reptyke | M | Lv 21
 . Amulet Coin: Merchant Goldberg, Chantruth | M | Lv 22
-. Elixir
-. Hidden: ['13', '18'], Soda Pop
 
 
 ---------- Route 28 ---------
 
 Find:
-. Salac Berry: Smogoon Josh, Smogaroben | F | Lv 24
-. Sitrus Berry: Theorist John, Ayylamo | F | Lv 25
-. Oran Berry: Fucking Noob, Dragun | M | Lv 23
 . X Special
 . Super Repel
 . Ice Heal
@@ -1069,6 +1100,11 @@ Find:
 . Hidden: ['93', '11'], Tinymushroom
 . Hidden: ['63', '21'], Great Ball
 . Hidden: ['28', '9'], Potion
+
+Steal:
+. Salac Berry: Smogoon Josh, Smogaroben | F | Lv 24
+. Sitrus Berry: Theorist John, Ayylamo | F | Lv 25
+. Oran Berry: Fucking Noob, Dragun | M | Lv 23
 
 
 ---------- Route 29 ---------
@@ -1095,14 +1131,6 @@ Find:
 
 Find:
 . Big Root: route master
-. Watmel Berry: Gentleman oboma, Vandash | F | Lv 70
-. Sitrus Berry: Gentleman oboma, Vandash | M | Lv 71
-. Berry Juice: Gentleman oboma, Vandash | M | Lv 72
-. Poké Ball: Gentleman oboma, Vandash | M | Lv 73
-. Watmel Berry: Gentleman oboma, Vandash | F | Lv 74
-. Focus Band: Gentleman oboma, Vandash | F | Lv 75
-. Eviolite: Tranny Alec, Inbitween | M | Lv 70
-. Eviolite: Furry Hooter, Masdawg | M | Lv 71
 . Metal Coat
 . Ultra Ball
 . Revive
@@ -1118,6 +1146,16 @@ Find:
 . Nugget
 . Hidden: ['33', '5'], Full Heal
 . Hidden: ['41', '31'], Green Shard
+
+Steal:
+. Watmel Berry: Gentleman oboma, Vandash | F | Lv 70
+. Sitrus Berry: Gentleman oboma, Vandash | M | Lv 71
+. Berry Juice: Gentleman oboma, Vandash | M | Lv 72
+. Poké Ball: Gentleman oboma, Vandash | M | Lv 73
+. Watmel Berry: Gentleman oboma, Vandash | F | Lv 74
+. Focus Band: Gentleman oboma, Vandash | F | Lv 75
+. Eviolite: Tranny Alec, Inbitween | M | Lv 70
+. Eviolite: Furry Hooter, Masdawg | M | Lv 71
 
 
 ---------- Route 31 ---------
@@ -1142,16 +1180,18 @@ TM/HM:
 ---------- Route 32 ---------
 
 Find:
-. Quick Claw: Hiker Landon, Shurismash | M | Lv 62
-. Amulet Coin: Hiker Landon, Vaultevour | M | Lv 62
-. B-Ball: Hiker Landon, Barbarkley | M | Lv 63
-. Bright Powder: Hiker Landon, Senketula | M | Lv 64
-. Sitrus Berry: Hiker Landon, Apartmant | M | Lv 63
 . Fast Ball
 . Zinc
 . Max Repel
 . Hidden: ['33', '7'], Revive
 . Hidden: ['81', '10'], X Accuracy
+
+Steal:
+. Quick Claw: Hiker Landon, Shurismash | M | Lv 62
+. Amulet Coin: Hiker Landon, Vaultevour | M | Lv 62
+. B-Ball: Hiker Landon, Barbarkley | M | Lv 63
+. Bright Powder: Hiker Landon, Senketula | M | Lv 64
+. Sitrus Berry: Hiker Landon, Apartmant | M | Lv 63
 
 
 ---------- Route 4 ---------
@@ -1171,21 +1211,20 @@ TM/HM:
 
 Find:
 . Lucky Egg
-. Salac Berry: Pokémon Ranger Artyom, Charagon | Lv 25
 . Lucky Egg
 . Great Ball
 . Hidden: ['41', '32'], X Accuracy
 . Hidden: ['7', '36'], Paralyz Heal
 . Hidden: ['23', '24'], Net Ball
 
+Steal:
+. Salac Berry: Pokémon Ranger Artyom, Charagon | Lv 25
+
 
 ---------- Route 6 ---------
 
 Find:
 . Weakness Policy: route master
-. Mental Herb: Feminist Lilith, Fishnism | F | Lv 24
-. Sitrus Berry: Stoner Wayne, Furnazi | M | Lv 24
-. Leftovers: Stoner Wayne, Bongecko | M | Lv 25
 . Max Potion
 . Calcium
 . TM41
@@ -1209,6 +1248,11 @@ Find:
 . Hidden: ['153', '15'], Nest Ball
 . Hidden: ['74', '10'], Rare Candy
 
+Steal:
+. Mental Herb: Feminist Lilith, Fishnism | F | Lv 24
+. Sitrus Berry: Stoner Wayne, Furnazi | M | Lv 24
+. Leftovers: Stoner Wayne, Bongecko | M | Lv 25
+
 TM/HM:
 . TM41: Torment, on top of the middle waterfall | requires Surf
 
@@ -1219,7 +1263,6 @@ Find:
 . Soothe Bell: MooMoo Café
 . Focus Band: route master
 . Focus Sash: route master
-. Choice Band: Lifter Chad, Muscledude | M | Lv 26
 . Awakening
 . Ultra Ball
 . Super Potion
@@ -1236,6 +1279,9 @@ Find:
 . Hidden: ['17', '130'], Revive
 . Hidden: ['25', '76'], Ultra Ball
 
+Steal:
+. Choice Band: Lifter Chad, Muscledude | M | Lv 26
+
 
 ---------- Route 8 ---------
 
@@ -1248,23 +1294,18 @@ Find:
 ---------- Route 9 ---------
 
 Find:
-. Black Glasses: Lifter Jean Claude, Chasumo | M | Lv 33
 . Dream Ball
 . Super Potion
 . Hidden: ['35', '5'], Lum Berry
 . Hidden: ['42', '17'], Leppa Berry
 
+Steal:
+. Black Glasses: Lifter Jean Claude, Chasumo | M | Lv 33
+
 
 ---------- Ruse Cruise ---------
 
 Find:
-. Poison Barb: Team Karma Grunt, Burdmen | F | Lv 26
-. Nugget: Merchant Aaron, Chompest | M | Lv 26
-. Sitrus Berry: Team Karma Grunt, Chanolour | F | Lv 27
-. Macho Brace: Barafag Brando, Hulkan | M | Lv 25
-. Eviolite: Team Karma Grunt, Smogaroben | M | Lv 25
-. Leftovers: Team Karma Grunt, Nomaestro | Lv 60
-. Light Ball: Scientist Kayden, Pikotton | M | Lv 54
 . Luxury Ball
 . Smoke Ball
 . TM05
@@ -1279,6 +1320,15 @@ Find:
 . Hidden: ['14', '6'], Chople Berry
 . Hidden: ['14', '8'], Chesto Berry
 . Hidden: ['1', '7'], Oran Berry
+
+Steal:
+. Poison Barb: Team Karma Grunt, Burdmen | F | Lv 26
+. Nugget: Merchant Aaron, Chompest | M | Lv 26
+. Sitrus Berry: Team Karma Grunt, Chanolour | F | Lv 27
+. Macho Brace: Barafag Brando, Hulkan | M | Lv 25
+. Eviolite: Team Karma Grunt, Smogaroben | M | Lv 25
+. Leftovers: Team Karma Grunt, Nomaestro | Lv 60
+. Light Ball: Scientist Kayden, Pikotton | M | Lv 54
 
 
 ---------- Ruse Cruise 1 ---------
@@ -1326,11 +1376,13 @@ TM/HM:
 ---------- Saltshaker Beach ---------
 
 Find:
+. Hidden: ['20', '18'], Blue Shard
+
+Steal:
 . Choice Band: Feminist Vera, Seamapan | F | Lv X
 . Chesto Berry: Feminist Vera, Sjwhale | F | Lv X-2
 . Air Balloon: Feminist Vera, Pikotton | M | Lv X-3
 . Bacon Strip: Feminist Gloria, Urswine | M | Lv X-3
-. Hidden: ['20', '18'], Blue Shard
 
 
 ---------- Silver Point ---------
@@ -1340,9 +1392,6 @@ Find:
 . Chill Drive: Hackerman
 . Douse Drive: Hackerman
 . Shock Drive: Hackerman
-. Eviolite: Terrorist Abu Hajar, Illuminowl | M | Lv X
-. Eviolite: Memer Kana, Fireshitwi | F | Lv X-1
-. Eviolite: Swimmer Jamie, Walruse | M | Lv X-5
 . Full Restore
 . Bottlecap
 . Iron
@@ -1360,6 +1409,11 @@ Find:
 . Hidden: ['16', '2'], Dive Ball
 . Hidden: ['19', '9'], Awakening
 . Hidden: ['5', '2'], Big Pearl
+
+Steal:
+. Eviolite: Terrorist Abu Hajar, Illuminowl | M | Lv X
+. Eviolite: Memer Kana, Fireshitwi | F | Lv X-1
+. Eviolite: Swimmer Jamie, Walruse | M | Lv X-5
 
 
 ---------- Singles Island ---------
@@ -1392,7 +1446,7 @@ Find:
 
 ---------- Telekino City ---------
 
-Find:
+Steal:
 . Choice Specs: Officer Thurus, Rainglock | Lv X-3
 . Choice Scarf: Officer Thurus, Rainglock | Lv X-3
 . Poké Ball: Burglar Tyriekus, Vandash | M | Lv X-2
@@ -1405,28 +1459,30 @@ Find:
 
 ---------- Telekino City Gym ---------
 
-Find:
+Steal:
 . Eviolite: Scientist Bardock, Eareticle | M | Lv X-1
 . Eviolite: Black Belt Paragus, Dragaya | M | Lv X-3
 
 
 ---------- Telekino TV Broadcasting ---------
 
-Find:
+Steal:
 . Choice Scarf: Neo Karma Grunt, Lizakbar | M | Lv X-3
 
 
 ---------- Tittysprinkle Rocks ---------
 
 Find:
-. Eviolite: Triathlete Alonzo, Manatorque | M | Lv X
-. Eviolite: Swimmer Agusto, Flowre | F | Lv X
-. Leftovers: Swimmer Agusto, Seamapan | F | Lv X
 . Big Pearl
 . Iapapa Berry
 . Weed
 . Hidden: ['12', '28'], Heart Scale
 . Hidden: ['15', '125'], Heart Scale
+
+Steal:
+. Eviolite: Triathlete Alonzo, Manatorque | M | Lv X
+. Eviolite: Swimmer Agusto, Flowre | F | Lv X
+. Leftovers: Swimmer Agusto, Seamapan | F | Lv X
 
 
 ---------- Torabor Bay ---------
@@ -1466,7 +1522,7 @@ Trades:
 
 ---------- Trips Island Gym ---------
 
-Find:
+Steal:
 . Eviolite: Skeleton Sans, Spookster | M | Lv X
 
 TM/HM:
@@ -1490,6 +1546,15 @@ Find:
 ---------- Victory Road ---------
 
 Find:
+. Rare Candy
+. Sun Stone
+. TM22
+. Dragon Fang
+. Max Potion
+. TM01
+. Hidden: ['26', '30'], Quick Ball
+
+Steal:
 . Choice Band: Lifter Arnold, Kuuroba | M | Lv 63
 . Black Belt: Ace Trainer Sandokan, Mabster | M | Lv 61
 . Salac Berry: Ace Trainer Sandokan, Huntabre | M | Lv 64
@@ -1514,13 +1579,6 @@ Find:
 . Leftovers: Ace Duo Orn & Smoug, Marleyzard | M | Lv 62
 . Bright Powder: Ace Duo Orn & Smoug, Scythear | M | Lv 64
 . Leftovers: Ace Duo Orn & Smoug, Manatank | M | Lv 64
-. Rare Candy
-. Sun Stone
-. TM22
-. Dragon Fang
-. Max Potion
-. TM01
-. Hidden: ['26', '30'], Quick Ball
 
 TM/HM:
 . TM01: Focus Punch, 3F, East in the lowest level
@@ -1542,7 +1600,7 @@ TM/HM:
 
 ---------- Vitlya Gym ---------
 
-Find:
+Steal:
 . Leftovers: Ace Trainer Felicia, Rectreem | M | Lv 60
 
 TM/HM:
